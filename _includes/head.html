@@ -1,12 +1,29 @@
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
   <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
 
-  <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
+  <meta name=viewport content="width=device-width, initial-scale=0.5">
+
+  <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
+
+  <link rel="preconnect" href="https://farm1.staticflickr.com">
+  <link rel="preconnect" href="https://farm2.staticflickr.com">
+  <link rel="preconnect" href="https://farm3.staticflickr.com">
+  <link rel="preconnect" href="https://farm4.staticflickr.com">
+  <link rel="preconnect" href="https://farm5.staticflickr.com">
+  <link rel="preconnect" href="https://farm6.staticflickr.com">
+  <link rel="preconnect" href="https://farm7.staticflickr.com">
+  <link rel="preconnect" href="https://farm8.staticflickr.com">
+  <link rel="preconnect" href="https://farm9.staticflickr.com">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+
+  <script src="/js/hyphenate.js" type="text/javascript" async></script>
+  <link rel="stylesheet" href="/css/style.css" type="text/css" media="screen">
+  <link href='https://fonts.googleapis.com/css?family=Raleway:300|Titillium+Web|Open+Sans:400,300' rel='stylesheet' type='text/css'>
+
 </head>

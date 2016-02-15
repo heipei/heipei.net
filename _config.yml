@@ -1,3 +1,6 @@
+gems: [jekyll-paginate]
 url: https://heipei.net
 name: heipei
 description: Jojo
+paginate: 4
+paginate_path: "/page/:num/"

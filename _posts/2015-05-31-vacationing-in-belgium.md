@@ -36,6 +36,7 @@ So, earlier this year we had decided to put our money where out mouth is and act
     <a href="https://www.flickr.com/photos/heipei/17912828376" title="Spa, Belgium by Johannes, on Flickr"><img data-echo="https://c1.staticflickr.com/9/8759/17912828376_3143defd1e_b.jpg" alt="Spa, Belgium" /></a>
   </div>
   
+  <div>
   <table>
     <tr>
       <td>
@@ -57,14 +58,35 @@ So, earlier this year we had decided to put our money where out mouth is and act
       </td>
     </tr>
   </table>
-  
-  <p>
-    <i>Our vacation home in Sprimont can be seen in the bottom-right photo.</i> </div> 
+  </div>
+</div> 
+
+<p>
+<i>Our vacation home in Sprimont can be seen in the bottom-right photo.</i>
+</p>
     
-    <p>
-      On our first full day in Sprimont we went hiking near Spa. Spa is within the Ardennes region, so the hike was similar to the hikes we usually do through the Haute Fagnes near Eupen and Monschau. We even came upon a small airport which had planes full of skydivers starting every few minutes. After we had hiked for most of the day we drove into Spa to get a look at the lovely old city centre. The next day we drove into Liège (Lüttich), the capitol and biggest city of the Wallonie. The outskirts of Liège are a little bit run-down in some areas, and there are signs of the industrial history to be found everywhere. Katrin and I had been to Liège just once a few years ago, so we had our own picture of the city. Luckily, this time the weather was perfect, the Sunday market was brimming with shoppers and the city was in full bloom. We walked through most of the city centre north of the Meuse and of course also hiked up the Montagne de Bueren (Steps of Bueren) towards the citadel looking over the city. At the end of the day were pleasantly surprised and realized that a lot of our negative impressions about Liège were either unfounded or had been remediated in the last years, which was also true for the rest of Belgium. While Belgium is certainly not the first thing that comes to mind when talking about vacation, it is a good option if you only have a long weekend and don&#8217;t want to spend hours in your car or in a plane.
-    </p>
+<p>
+On our first full day in Sprimont we went hiking near Spa. Spa is within the
+Ardennes region, so the hike was similar to the hikes we usually do through the
+Haute Fagnes near Eupen and Monschau. We even came upon a small airport which
+had planes full of skydivers starting every few minutes. After we had hiked for
+most of the day we drove into Spa to get a look at the lovely old city centre.
+The next day we drove into Liège (Lüttich), the capitol and biggest city of the
+Wallonie. The outskirts of Liège are a little bit run-down in some areas, and
+there are signs of the industrial history to be found everywhere. Katrin and I
+had been to Liège just once a few years ago, so we had our own picture of the
+city. Luckily, this time the weather was perfect, the Sunday market was
+brimming with shoppers and the city was in full bloom. We walked through most
+of the city centre north of the Meuse and of course also hiked up the Montagne
+de Bueren (Steps of Bueren) towards the citadel looking over the city. At the
+end of the day were pleasantly surprised and realized that a lot of our
+negative impressions about Liège were either unfounded or had been remediated
+in the last years, which was also true for the rest of Belgium. While Belgium
+is certainly not the first thing that comes to mind when talking about
+vacation, it is a good option if you only have a long weekend and don&#8217;t
+want to spend hours in your car or in a plane.
+</p>
     
-    <div class="img aligncenter">
-      <a href="https://www.flickr.com/photos/heipei/18168975921" title="Liège, Belgium by Johannes, on Flickr"><img data-echo="https://c4.staticflickr.com/8/7786/18168975921_5508d8b829_b.jpg" alt="Liège, Belgium" /></a><a href="https://www.flickr.com/photos/heipei/17547237243" title="Liège, Belgium by Johannes, on Flickr"><img data-echo="https://c4.staticflickr.com/8/7781/17547237243_dcc571a73e_b.jpg" alt="Liège, Belgium" /></a><a href="https://www.flickr.com/photos/heipei/18016974509" title="Sprimont, Belgium by Johannes, on Flickr"><img data-echo="https://c1.staticflickr.com/9/8782/18016974509_6367eba401_b.jpg" alt="Sprimont, Belgium" /></a>
-    </div>
+<div class="img aligncenter">
+<a href="https://www.flickr.com/photos/heipei/18168975921" title="Liège, Belgium by Johannes, on Flickr"><img data-echo="https://c4.staticflickr.com/8/7786/18168975921_5508d8b829_b.jpg" alt="Liège, Belgium" /></a><a href="https://www.flickr.com/photos/heipei/17547237243" title="Liège, Belgium by Johannes, on Flickr"><img data-echo="https://c4.staticflickr.com/8/7781/17547237243_dcc571a73e_b.jpg" alt="Liège, Belgium" /></a><a href="https://www.flickr.com/photos/heipei/18016974509" title="Sprimont, Belgium by Johannes, on Flickr"><img data-echo="https://c1.staticflickr.com/9/8782/18016974509_6367eba401_b.jpg" alt="Sprimont, Belgium" /></a>
+</div>

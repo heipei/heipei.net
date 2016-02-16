@@ -18,7 +18,7 @@ tags:
   
 The &#8220;Fork&#8221; feature is probably the most important one. Instead of just cloning a repository and working on it locally, you can fork it on GitHub. When you fork a project everyone can see you did, and has a nice flashy graph-view so they can see where you branched and what commits you made that are not (yet) in the upstream. <img data-echo="/weblog/fork.png" alt="GitHub fork" class="alignleft" />And if you have introduced changes that you think would benefit the project you can send people (e.g. the original project owner) a &#8220;pull-request&#8221;. The recipient can then easily fetch/merge your changes into his project. It really doesn&#8217;t get much easier to contribute to (open-source) projects. I certainly did for the first time ;)
 
-<div align="center">
+<div class="img aligncenter">
   <img data-echo="/weblog/branch.png" alt="GitHub forks" />
 </div>
 

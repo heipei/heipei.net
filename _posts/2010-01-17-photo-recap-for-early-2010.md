@@ -25,6 +25,6 @@ Aachen Open 2010, which just ended today, was the only real event I looked forwa
   
 Tonight I salvaged an old (and broken) Umbrella and simply covered the inside with white xerox paper. I sawed of the round part of the handle and now it fits into the grip of my tripod. The Phottix has a mount option for standard tripods. The [results are amazing](https://secure.flickr.com/photos/heipei/tags/umbrella/), and as usual I now feel much better when I buy an umbrella (I&#8217;m not quite sure whether I want reflective or shoot-through or both ;)
 
-<div align="center">
+<div class="img aligncenter">
   <a href="https://secure.flickr.com/photos/heipei/4282940966/" title="Reflective Umbrella DIY by heipei, on Flickr"><img data-echo="https://farm5.static.flickr.com/4027/4282940966_fef380f800_m.jpg" width="160" height="240" alt="Reflective Umbrella DIY" /></a><a href="https://secure.flickr.com/photos/heipei/4282193297/" title="Reflective Umbrella DIY by heipei, on Flickr"><img data-echo="https://farm5.static.flickr.com/4002/4282193297_bb60f5c93d_m.jpg" width="240" height="160" alt="Reflective Umbrella DIY" /></a><a href="https://secure.flickr.com/photos/heipei/4282182157/" title="Reflective Umbrella DIY by heipei, on Flickr"><img data-echo="https://farm3.static.flickr.com/2746/4282182157_766d455d40_m.jpg" width="160" height="240" alt="Reflective Umbrella DIY" /></a>
 </div>

@@ -12,7 +12,7 @@ categories:
 ---
 Went Heli-flying today. Unfortunately the weather was less than optimal, and the pilot took a route which actually led us away from Aachen, over the Blausteinsee and the Braunkohletagebau. Either way, it was fun and now I know what flying in a helicopter feels like. A small video of my trip:
 
-<div align="center">
+<div class="img aligncenter">
 </div>
 
 I think next time I&#8217;ll try the plane which also departs from Merzbrück and explicitly mentions Aachen proper as one point of its route.

@@ -19,7 +19,7 @@ With already two full short-trouser-days this year, summer should be right aroun
   <a title="Wanderung by heipei, on Flickr" href="https://secure.flickr.com/photos/heipei/3401808518/"><img data-echo="https://farm4.static.flickr.com/3610/3401808518_22f349e904_m.jpg" alt="Wanderung" width="160" height="240" /></a><a title="Samstagsspaziergang by heipei, on Flickr" href="https://secure.flickr.com/photos/heipei/3373430008/"><img data-echo="https://farm4.static.flickr.com/3660/3373430008_e81d6d015c_m.jpg" alt="Samstagsspaziergang" width="160" height="240" /></a><a title="Wanderung Plombieres/Gueule-Tal by heipei, on Flickr" href="https://secure.flickr.com/photos/heipei/3413303477/"><img data-echo="https://farm4.static.flickr.com/3388/3413303477_127d674578_m.jpg" alt="Wanderung Plombieres/Gueule-Tal" width="160" height="240" /></a><a title="Wanderung Plombieres/Gueule-Tal by heipei, on Flickr" href="https://secure.flickr.com/photos/heipei/3414103432/"><img data-echo="https://farm4.static.flickr.com/3611/3414103432_d536dc1ee4_m.jpg" alt="Wanderung Plombieres/Gueule-Tal" width="160" height="240" /></a>
 </div>
 
-<div align="center">
+<div class="img aligncenter">
   <a title="Wanderung Plombieres/Gueule-Tal by heipei, on Flickr" href="https://secure.flickr.com/photos/heipei/3414104394/"><img data-echo="https://farm4.static.flickr.com/3663/3414104394_b47e86f684_m.jpg" alt="Wanderung Plombieres/Gueule-Tal" width="240" height="160" /></a><a title="Samstagsspaziergang by heipei, on Flickr" href="https://secure.flickr.com/photos/heipei/3372641165/"><img data-echo="https://farm4.static.flickr.com/3632/3372641165_ac6357e748_m.jpg" alt="Samstagsspaziergang" width="240" height="160" /></a>
 </div>
 

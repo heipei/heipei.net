@@ -12,7 +12,7 @@ categories:
 ---
 I haven&#8217;t blogged in a while and don&#8217;t really feel inclined to post anything too geeky (though I certainly have some topics in the pipeline). So I decided to have a look back at 2010 from a photographic point of view. This includes the shots I took and the stuff I used to do it. Here we go!
 
-<div align="center">
+<div class="img aligncenter">
   <a href="https://secure.flickr.com/photos/heipei/5274900086/" title="Wanderung Grenzrouten by heipei, on Flickr"><img data-echo="https://farm6.static.flickr.com/5004/5274900086_5d8331c67c_n.jpg"  alt="Wanderung Grenzrouten" /></a><a href="https://secure.flickr.com/photos/heipei/5240956388/" title="Birthday Party by heipei, on Flickr"><img data-echo="https://farm6.static.flickr.com/5121/5240956388_03d53c3cf8_n.jpg"  alt="Birthday Party" /></a>
 </div>
 

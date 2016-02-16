@@ -15,7 +15,7 @@ categories:
 tags:
   - git linux
 ---
-<img src="/weblog/git-logo.png" alt="git" class="alignleft" />You can use git as a full-fledged, commit-driven VCS, with all its awesome features. I wrote about that (and probably will again) before. But often you just have to track some things over the course of a few minutes/hours and don&#8217;t even want a &#8220;repository&#8221; or a commit-history or branches.
+<img data-echo="/weblog/git-logo.png" alt="git" class="alignleft" />You can use git as a full-fledged, commit-driven VCS, with all its awesome features. I wrote about that (and probably will again) before. But often you just have to track some things over the course of a few minutes/hours and don&#8217;t even want a &#8220;repository&#8221; or a commit-history or branches.
 
 Often you have some code/text in it&#8217;s original form and need to change a few lines until something works (again). Sometimes you&#8217;d like to keep track of these changes (for example to apply them on a different codebase/host). Before git, I just copied the files (or directory) I wanted to edit to some <file.bak> or <file.old> destination and later did a diff with the new files. That sucks for obvious reasons.
   

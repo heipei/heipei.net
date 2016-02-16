@@ -22,7 +22,7 @@ Eine kleine Sache auf die ich hinweisen moechte. Ich hatte schon laenger von [FU
 
 Ich logge mich haeufig auf anderen Hosts ein (wie etwa hackvalue, classic-addicition oder auch den wohnheimsinternen Rechnern). Und es kommt auch ab und zu mal vor dass ich Dateien per scp auf diese Rechner kopiere (z.B. in das /weblog oder /tmp Verzeichniss meiner Webseite). Oder dass ich an einem Programm arbeite das serverseitig laeuft, wie z.B. ein PHP-Skript oder ein rails-programm. Natuerlich funktioniert scp gut, besonders dank remote completion der zsh, aber es bleibt unintuitiv. Und wer files ueber ssh editiert kennt die Probleme: Manchmal einfach lags, oder Verbindungen die unterbrochen werden.
 
-<img src="/weblog/sshfs.png" alt="sshfs" class="alignleft" />
+<img data-echo="/weblog/sshfs.png" alt="sshfs" class="alignleft" />
 
 Also mountet man das ganze einfach mit sshfs: **sshfs jojo@hostname.de:/home/www/webseiten/ mountpoint** als Beispiel. Hinter dem **:** wird angegeben welches Verzeichniss als root-verzeichniss fuer die operationen gelten soll (default: ~). Jetzt kann man ganz einfach wie sonst auch mit allen lokalen Programmen auf dem gemounteten Verzeichniss arbeiten. Der grosse Vorteil fuer mich ist dabei dass ich meine lokale shell und meine .vimrc und lauter andere Programme die ich vielleicht zum editieren brauche weiter benutzen kann ohne erst vorher alles remote installieren und die config-dateien rueberkopieren zu muessen. Und laggen tut es wenn dann beim oeffnen und beim schreiben von dateien, dazwischen arbeitet man ja lokal. Mit der richtigen anbindung (wie ich sie momentan zum glueck habe) kann man sogar mit sowas wie gqview die bilder auf einem server ziemlich flott angucken.
 

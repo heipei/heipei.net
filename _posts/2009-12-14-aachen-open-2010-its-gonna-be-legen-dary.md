@@ -12,7 +12,7 @@ categories:
   - Geekstuff
   - Uni
 ---
-[<img src="http://cube.hackvalue.de/ao10/banner.png" alt="Aachen Open 2010" class="aligncenter" style="border: 0px;" />](http://cube.hackvalue.de/ao10/)
+[<img data-echo="http://cube.hackvalue.de/ao10/banner.png" alt="Aachen Open 2010" class="aligncenter" style="border: 0px;" />](http://cube.hackvalue.de/ao10/)
   
 This is just a reminder that [Aachen Open](http://cube.hackvalue.de/ao10/), a German speedcubing competition, will take place again next year. More precisely on **January 16/17, 2010**. What&#8217;s even better is the huge number of registered participants and the new venue for the competition. Since the last place became quite crowded (and began to smell after about 2 hours) the management secured a larger spot in RWTHs Computer-Science building (Aula II, Ahornstraße 55). The downside for visitors is the distance to downtown Aachen, but on the bright side we&#8217;ll be equipped with internet throughout the competition.
 

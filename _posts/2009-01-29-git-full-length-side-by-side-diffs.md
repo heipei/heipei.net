@@ -17,7 +17,7 @@ Got this one from the git-ml (which I read via gmane, but that&#8217;s a differe
 I&#8217;m not very good at reviewing patches. Especially not if it&#8217;s something like JavaScript. git at least colorizes its diffs, which makes it somewhat better. But as soon as you have a big file which is being patched in multiple, disconnected places (different &#8220;hunks&#8221; in git terminology), so that the context between these hunks is missing, it gets to messy imho.
 
 <div align="center">
-  <a href="https://secure.flickr.com/photos/heipei/3236351860/" title="git-difftool in action by heipei, on Flickr"><img src="https://farm4.static.flickr.com/3346/3236351860_90f114d5c1.jpg" width="500" height="369" alt="git-difftool in action" /></a>
+  <a href="https://secure.flickr.com/photos/heipei/3236351860/" title="git-difftool in action by heipei, on Flickr"><img data-echo="https://farm4.static.flickr.com/3346/3236351860_90f114d5c1.jpg" width="500" height="369" alt="git-difftool in action" /></a>
 </div>
 
 Fortunately there is an easy solution: In git there is contrib/difftool, which makes it easy to display git diffs side-by-side with a viewer of your choice. Of course that meant vimdiff for me. To see all the lines of a file (and not just the changed + a little context) I call git-difftool like this:

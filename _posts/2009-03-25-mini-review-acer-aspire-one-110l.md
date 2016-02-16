@@ -11,7 +11,7 @@ categories:
   - Geekstuff
   - Linux
 ---
-<img src="/weblog/acer_aspire_one.jpg" alt="Acer Aspire One" class="alignleft" />This is a small review for a small laptop. You might remember that I bought a MacBook a few months back, and may ask yourself why anyone would need two laptops (or even one for some people). Well, I can&#8217;t answer that question for everyone, but think about it the next time you buy an expensive cell-phone just so you can go online, read emails and listen to music with it.
+<img data-echo="/weblog/acer_aspire_one.jpg" alt="Acer Aspire One" class="alignleft" />This is a small review for a small laptop. You might remember that I bought a MacBook a few months back, and may ask yourself why anyone would need two laptops (or even one for some people). Well, I can&#8217;t answer that question for everyone, but think about it the next time you buy an expensive cell-phone just so you can go online, read emails and listen to music with it.
   
 **The price**
   
@@ -33,7 +33,7 @@ Something you should buy alongside your Aspire One is an SD-card to extend your 
   
 I have to say I was positively surprised at what I&#8217;m able to do on this machine. I can listen to a shoutcast-stream, have an IM running, a few shell sessions and still use Firefox ok. The processor in most cases isn&#8217;t the limiting factor, but the slow speed of the internal HDD. This is another reason for putting your (big) files, like photos, onto the SD-card, which will be faster in most cases.
   
-<img src="/weblog/debian_logo.png" alt="Debian GNU/Linux" class="alignleft" />I went with Debian GNU/Linux on the Aspire One, I couldn&#8217;t even imagine Gentoo on it. Debian just released Lenny and with the default install almost everything worked out of the box. I&#8217;ve got suspend-to-ram and hibernate working fine and fast. There are pages dedicated to the Aspire One from multiple distributions and it&#8217;s best to read all of them. One thing you&#8217;ll probably have to do is build a custom kernel, as the stock ones will eat the data on your left-side SD-slot when suspending (yep, it happened to me ;).
+<img data-echo="/weblog/debian_logo.png" alt="Debian GNU/Linux" class="alignleft" />I went with Debian GNU/Linux on the Aspire One, I couldn&#8217;t even imagine Gentoo on it. Debian just released Lenny and with the default install almost everything worked out of the box. I&#8217;ve got suspend-to-ram and hibernate working fine and fast. There are pages dedicated to the Aspire One from multiple distributions and it&#8217;s best to read all of them. One thing you&#8217;ll probably have to do is build a custom kernel, as the stock ones will eat the data on your left-side SD-slot when suspending (yep, it happened to me ;).
   
 **Links**
   

@@ -30,7 +30,7 @@ Tja, Langeweile, tiefstehende Nachmittags-Sonne, Stativ mal ausgepackt. Hm. Also
 Wow, das hätte ich nicht erwartet. Das Bild ohne Blende sieht aus als wäre das Originalmotiv von einer ordentlichen Smogwolke befallen worden, wodurch alles heller und viel kontrastärmer wurde. Guckt es euch selbst an, ist schwer das nebeneinander zu zeigen, deswegen empfehle ich beide Bilder runterzuladen und hintereinander zu gucken (Foto oben natürlich mit Blende, unten ohne).
 
 <div align="center">
-  <img src="/weblog/awf_blende.JPG" alt="AwF Blende" /><br /> <img src="/weblog/awf_keine_blende.JPG" alt="AwF Keine Blende" />
+  <img data-echo="/weblog/awf_blende.JPG" alt="AwF Blende" /><br /> <img data-echo="/weblog/awf_keine_blende.JPG" alt="AwF Keine Blende" />
 </div>
 
 **Fazit**

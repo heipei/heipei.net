@@ -13,7 +13,7 @@ categories:
   - Geekstuff
   - Linux
 ---
-<img src="/weblog/postfix-mysql.png" alt="Postfix-Mysql" class="alignleft" />I have a problem. Im running a Postfix with lots of forwarded addresses in the aliases file. Recently we decided to move all the entries from the very unhandy static file (which you have to rebuild after every change) to a MySQL-Database. The reason is obvious: Its easier to manage, and one day you can take that Ruby on Rails book thats been rotting in the shelf and write a cool webinterface to manage those forwards.
+<img data-echo="/weblog/postfix-mysql.png" alt="Postfix-Mysql" class="alignleft" />I have a problem. Im running a Postfix with lots of forwarded addresses in the aliases file. Recently we decided to move all the entries from the very unhandy static file (which you have to rebuild after every change) to a MySQL-Database. The reason is obvious: Its easier to manage, and one day you can take that Ruby on Rails book thats been rotting in the shelf and write a cool webinterface to manage those forwards.
   
 Everything went well so far (even learned some sed/awk in the process), but i still have a problem. In the original aliases we had groups you could mail to. This means mail\_to\_file. The record looked a little like this:
 

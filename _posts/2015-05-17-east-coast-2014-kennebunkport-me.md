@@ -16,23 +16,23 @@ We arrived late so we only took a stroll through the small city centre. For dinn
 
 <div class="img aligncenter">
   <div>
-    <a href="https://www.flickr.com/photos/heipei/16270460580" title="Kennebunkport, ME by Johannes, on Flickr"><img src="https://c4.staticflickr.com/8/7293/16270460580_9ce36b5007_b.jpg" alt="Kennebunkport, ME" /></a>
+    <a href="https://www.flickr.com/photos/heipei/16270460580" title="Kennebunkport, ME by Johannes, on Flickr"><img data-echo="https://c4.staticflickr.com/8/7293/16270460580_9ce36b5007_b.jpg" alt="Kennebunkport, ME" /></a>
   </div>
   
   <table>
     <tr>
       <td>
-        <a href="https://www.flickr.com/photos/heipei/16456147261" title="Kennebunkport, ME by Johannes, on Flickr"><img src="https://c4.staticflickr.com/8/7356/16456147261_0a3153332e_c.jpg" alt="Kennebunkport, ME" /></a>
+        <a href="https://www.flickr.com/photos/heipei/16456147261" title="Kennebunkport, ME by Johannes, on Flickr"><img data-echo="https://c4.staticflickr.com/8/7356/16456147261_0a3153332e_c.jpg" alt="Kennebunkport, ME" /></a>
       </td>
       
       <td>
-        <a href="https://www.flickr.com/photos/heipei/16456945902" title="Kennebunkport, ME by Johannes, on Flickr"><img src="https://c4.staticflickr.com/8/7370/16456945902_93f93d1d54_c.jpg" alt="Kennebunkport, ME" /></a>
+        <a href="https://www.flickr.com/photos/heipei/16456945902" title="Kennebunkport, ME by Johannes, on Flickr"><img data-echo="https://c4.staticflickr.com/8/7370/16456945902_93f93d1d54_c.jpg" alt="Kennebunkport, ME" /></a>
       </td>
     </tr>
   </table>
   
   <div>
-    <a href="https://www.flickr.com/photos/heipei/16270460200" title="Kennebunkport, ME by Johannes, on Flickr"><img src="https://c4.staticflickr.com/8/7374/16270460200_c801cfdafa_b.jpg" alt="Kennebunkport, ME" /></a>
+    <a href="https://www.flickr.com/photos/heipei/16270460200" title="Kennebunkport, ME by Johannes, on Flickr"><img data-echo="https://c4.staticflickr.com/8/7374/16270460200_c801cfdafa_b.jpg" alt="Kennebunkport, ME" /></a>
   </div>
 </div>
 

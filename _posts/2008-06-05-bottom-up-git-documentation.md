@@ -13,7 +13,7 @@ categories:
   - git
   - Linux
 ---
-<img src="/weblog/git-logo.png" class="alignleft" alt="git" />As you can imagine I have been using git some more since the last post about it (and I&#8217;ve even been giving GitHub some more thorough investigation, but I&#8217;ll be posting about that later). Back then I already understood most of it (definetely enough to work with it), but just recently I got the feeling of really understanding git, especially the underlying data-structures and the consequences for the (power)-user.
+<img data-echo="/weblog/git-logo.png" class="alignleft" alt="git" />As you can imagine I have been using git some more since the last post about it (and I&#8217;ve even been giving GitHub some more thorough investigation, but I&#8217;ll be posting about that later). Back then I already understood most of it (definetely enough to work with it), but just recently I got the feeling of really understanding git, especially the underlying data-structures and the consequences for the (power)-user.
   
 The things that helped me were (besides the git manual which is good, but not graphical, and when it comes to the understanding of the data-structures, having little graphics is a must):
 

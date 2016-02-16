@@ -14,15 +14,15 @@ categories:
 tags:
   - git github review
 ---
-[<img src="/weblog/github.png" alt="GitHub" class="alignleft" />](http://github.com)Ok, I hinted that I would do a more thorough review of GitHub, the new and easy-to-use git repository hosting site. Although I&#8217;m still no power-user I&#8217;ve come to know the features that make GitHub worth using and so far unique.
+[<img data-echo="/weblog/github.png" alt="GitHub" class="alignleft" />](http://github.com)Ok, I hinted that I would do a more thorough review of GitHub, the new and easy-to-use git repository hosting site. Although I&#8217;m still no power-user I&#8217;ve come to know the features that make GitHub worth using and so far unique.
   
-The &#8220;Fork&#8221; feature is probably the most important one. Instead of just cloning a repository and working on it locally, you can fork it on GitHub. When you fork a project everyone can see you did, and has a nice flashy graph-view so they can see where you branched and what commits you made that are not (yet) in the upstream. <img src="/weblog/fork.png" alt="GitHub fork" class="alignleft" />And if you have introduced changes that you think would benefit the project you can send people (e.g. the original project owner) a &#8220;pull-request&#8221;. The recipient can then easily fetch/merge your changes into his project. It really doesn&#8217;t get much easier to contribute to (open-source) projects. I certainly did for the first time ;)
+The &#8220;Fork&#8221; feature is probably the most important one. Instead of just cloning a repository and working on it locally, you can fork it on GitHub. When you fork a project everyone can see you did, and has a nice flashy graph-view so they can see where you branched and what commits you made that are not (yet) in the upstream. <img data-echo="/weblog/fork.png" alt="GitHub fork" class="alignleft" />And if you have introduced changes that you think would benefit the project you can send people (e.g. the original project owner) a &#8220;pull-request&#8221;. The recipient can then easily fetch/merge your changes into his project. It really doesn&#8217;t get much easier to contribute to (open-source) projects. I certainly did for the first time ;)
 
 <div align="center">
-  <img src="/weblog/branch.png" alt="GitHub forks" />
+  <img data-echo="/weblog/branch.png" alt="GitHub forks" />
 </div>
 
-Then there are feeds. You can watch projects, which means that your feed includes any commits/comments on the watched projects. It goes without saying that this can be quickly overwhelming for active projects. <img src="/weblog/github_comment.png" alt="GitHub" class="alignleft" />Comments can be made on specific lines in a commit (or on the whole commit), which is a great feature (think of it as the equivalent to patches being discussed line-by-line in mailing-lists). I still prefer mails though ;)
+Then there are feeds. You can watch projects, which means that your feed includes any commits/comments on the watched projects. It goes without saying that this can be quickly overwhelming for active projects. <img data-echo="/weblog/github_comment.png" alt="GitHub" class="alignleft" />Comments can be made on specific lines in a commit (or on the whole commit), which is a great feature (think of it as the equivalent to patches being discussed line-by-line in mailing-lists). I still prefer mails though ;)
   
 The syntax-highlighting looks pretty good. I&#8217;ve already mentioned the very pale interface (as in low-contrast) and it still has not changed. But I think that most people really browse the commit history in their local clones anyway.
   

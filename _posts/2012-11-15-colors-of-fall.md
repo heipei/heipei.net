@@ -12,6 +12,6 @@ categories:
 ---
 Fall in Germany (and especially in Aachen) is something I&#8217;ve learned to enjoy a lot. Even though the days are growing shorter and colder, the golden leafs set the mood for the season to come. I recently shot some photos on the Lousberg and liked some of them enough to make them into a wallpaper for my laptop this winter.
 
-[<img src="https://heipei.net/weblog/lousberg.jpg" alt="Lousberg" class="aligncenter" />](https://heipei.net/weblog/lousberg_big.png)
+[<img data-echo="https://heipei.net/weblog/lousberg.jpg" alt="Lousberg" class="aligncenter" />](https://heipei.net/weblog/lousberg_big.png)
   
 <small>Fall-impressions on the Lousberg, Canon EOS 60D, EF 50mm 1.4</small>

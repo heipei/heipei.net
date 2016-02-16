@@ -12,7 +12,7 @@ categories:
   - Geekstuff
   - Linux
 ---
-<img src="/weblog/eos400d.jpg" alt="Canon EOS 400D" class="alignleft" />You can&#8217;t teach an old dog new tricks. This wisdom is only partially true for most modern devices, thanks to firmware updates. I&#8217;ve [briefly mentioned having used a &#8220;hacked&#8221; firmware](https://heipei.net/2010/12/29/the-photographic-year-2010/) for the past few months. This weekend, contemplating whether and when to buy a new camera body, I decided to see if there have been new features added to alternative firmwares for my Canon EOS 400D. Boy, was I in for a surprise!
+<img data-echo="/weblog/eos400d.jpg" alt="Canon EOS 400D" class="alignleft" />You can&#8217;t teach an old dog new tricks. This wisdom is only partially true for most modern devices, thanks to firmware updates. I&#8217;ve [briefly mentioned having used a &#8220;hacked&#8221; firmware](https://heipei.net/2010/12/29/the-photographic-year-2010/) for the past few months. This weekend, contemplating whether and when to buy a new camera body, I decided to see if there have been new features added to alternative firmwares for my Canon EOS 400D. Boy, was I in for a surprise!
 
 **400plus &#8211; Firmware Hack for the Canon EOS 400D**
   
@@ -30,7 +30,7 @@ For me, the Intervalometer/Timer/Handwave functions replace using an IR remote f
 
 **Tethered shooting using the command line**
   
-<img src="/weblog/gphoto2.png" alt="gphoto2" class="alignleft" />There are a number of solutions for tethered shooting with Canon DSLRs. Some of them even work on Linux. I wanted something simple to take and download shots from my 400D, so I used [gphoto2](http://www.gphoto.org/). gphoto2 provides a lot of other features which I won&#8217;t cover here, and [supports remote control for a wealth of cameras](http://www.gphoto.org/doc/remote/), so go check the compatibility of your own camera.
+<img data-echo="/weblog/gphoto2.png" alt="gphoto2" class="alignleft" />There are a number of solutions for tethered shooting with Canon DSLRs. Some of them even work on Linux. I wanted something simple to take and download shots from my 400D, so I used [gphoto2](http://www.gphoto.org/). gphoto2 provides a lot of other features which I won&#8217;t cover here, and [supports remote control for a wealth of cameras](http://www.gphoto.org/doc/remote/), so go check the compatibility of your own camera.
 
 I wanted to use my EOS 400D as some sort of webcam, taking shots at intervals and directly transfering those shots to my PC. This is easy enough with gphoto:
   

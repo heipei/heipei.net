@@ -11,7 +11,7 @@ categories:
   - Allgemein
   - Uni
 ---
-[<img src="https://heipei.net/weblog/seminare_protokolle.jpg" alt="Seminare" class="alignleft" />](https://heipei.net/studium)Nach einer Menge Posts über anderen Kram und neidischen Blicken zu [Flos aufgeräumter Studiumsseite](http://hackvalue.de/hv_studium) wollte ich mal noch ein paar Dokumente aus den letzten Semestern aus dem Schrank holen. Vielleicht hilft es ja dem ein oder anderen Studieninteressenten der sich nicht vorstellen kann was man überhaupt so während seines Informatikstudiums macht.
+[<img data-echo="https://heipei.net/weblog/seminare_protokolle.jpg" alt="Seminare" class="alignleft" />](https://heipei.net/studium)Nach einer Menge Posts über anderen Kram und neidischen Blicken zu [Flos aufgeräumter Studiumsseite](http://hackvalue.de/hv_studium) wollte ich mal noch ein paar Dokumente aus den letzten Semestern aus dem Schrank holen. Vielleicht hilft es ja dem ein oder anderen Studieninteressenten der sich nicht vorstellen kann was man überhaupt so während seines Informatikstudiums macht.
 
 **Seminare**
   

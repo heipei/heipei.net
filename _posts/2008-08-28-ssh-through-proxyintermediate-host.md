@@ -15,7 +15,7 @@ categories:
 tags:
   - ssh openssh proxy netcat
 ---
-<img src='http://hackvalue.de/heipei/wp-content/gallery/logos/openssh.png' alt='openssh.png' class='alignleft' />Since I&#8217;ve been developing some stuff for a private intranet (read: web-interface for managing stuff), which runs in their internal network I&#8217;ve found myself SSHing into the router/firewall and then into the host I&#8217;m developing on. This itself being bad enough, it was even more annoying when you wanted to copy File X from Host A to Host B, where you always had to go through Host C.
+<img data-echo='http://hackvalue.de/heipei/wp-content/gallery/logos/openssh.png' alt='openssh.png' class='alignleft' />Since I&#8217;ve been developing some stuff for a private intranet (read: web-interface for managing stuff), which runs in their internal network I&#8217;ve found myself SSHing into the router/firewall and then into the host I&#8217;m developing on. This itself being bad enough, it was even more annoying when you wanted to copy File X from Host A to Host B, where you always had to go through Host C.
   
 Well, no more! After some time fruitlessy searching the web, I stumbled onto this [easy solution involving everyone&#8217;s favorite: netcat](http://www.hackinglinuxexposed.com/articles/20040830.html)! The way to do it with OpenSSH is really straighforward and transparent, the only dependency you have is that netcat is installed on the proxy-host (the one in the middle). Just put this into your .ssh/config:
   

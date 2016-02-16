@@ -15,6 +15,6 @@ I am usually not that big a fan of add-ons, plugins etc., for the simple reason 
   * [External Editor](http://globs.org/download.php?lng=en), which allows you to compose mails with your favorite editor (think (g)vim).
   * [Colored Diffs](https://addons.mozilla.org/en-US/thunderbird/addon/4268), which is a must-have if you read mailinglists where patches are posted.
 
-<img src="/weblog/colored-diffs.png" alt="Colored Diffs" class="centered" />
+<img data-echo="/weblog/colored-diffs.png" alt="Colored Diffs" class="centered" />
   
 The last plugin is especially cool, since it allows you to read patches much easier than in the raw format.

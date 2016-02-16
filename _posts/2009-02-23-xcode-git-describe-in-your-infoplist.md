@@ -12,7 +12,7 @@ categories:
   - Geekstuff
   - git
 ---
-<img src="/weblog/xcode_git_describe.png" alt="Xcode git describe" class="alignleft" />Debugging programs for yourself (or from bug-reports from other people) requires knowing which version caused the bug. Of course most people think in terms of major releases, but a developer needs to know the exact revision, as this might make the crucial difference. UNIX command-line programs usually offer a &#8211;version switch, which returns detailed version and build-option information.
+<img data-echo="/weblog/xcode_git_describe.png" alt="Xcode git describe" class="alignleft" />Debugging programs for yourself (or from bug-reports from other people) requires knowing which version caused the bug. Of course most people think in terms of major releases, but a developer needs to know the exact revision, as this might make the crucial difference. UNIX command-line programs usually offer a &#8211;version switch, which returns detailed version and build-option information.
 
 If you want to have something similar with Xcode you can use the &#8220;New Run Script Build Phase&#8221; to add a simple script to your build-process. In the case of GitX, the code looks like this (the original can be found at [xcode-git-build-scripts at GitHub](http://github.com/indirect/xcode-git-build-scripts/tree/master)):
 

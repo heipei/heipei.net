@@ -11,19 +11,19 @@ categories:
   - Geekstuff
 ---
 <div class="img">
-  <a href="https://www.flickr.com/photos/heipei/16614416477" title="Digitizing old 35mm film negatives by Johannes, on Flickr"><img src="https://farm8.staticflickr.com/7643/16614416477_edfaaa7fdc_b.jpg" alt="Digitizing old 35mm film negatives" /></a>
+  <a href="https://www.flickr.com/photos/heipei/16614416477" title="Digitizing old 35mm film negatives by Johannes, on Flickr"><img data-echo="https://farm8.staticflickr.com/7643/16614416477_edfaaa7fdc_b.jpg" alt="Digitizing old 35mm film negatives" /></a>
 </div>
 
 I was recently combing through boxes of old stuff from my childhood. One box was filled with old photos and negatives of 35mm photography film. Back then, you gave your film to your local photo shop, they&#8217;d develop it and then give you pouches with the developed prints and the negatives in it. I&#8217;m quite fond of these memories, but I rarely look through them anymore because it&#8217;s a little cumbersome. So I decided to digitize these photos.
 
 <div class="img">
-  <a href="https://www.flickr.com/photos/heipei/16821712175" title="Digitizing old 35mm film negatives by Johannes, on Flickr"><img src="https://farm8.staticflickr.com/7655/16821712175_ea52e56127_b.jpg" alt="Digitizing old 35mm film negatives" /></a>
+  <a href="https://www.flickr.com/photos/heipei/16821712175" title="Digitizing old 35mm film negatives by Johannes, on Flickr"><img data-echo="https://farm8.staticflickr.com/7655/16821712175_ea52e56127_b.jpg" alt="Digitizing old 35mm film negatives" /></a>
 </div>
 
 I started out with an off-the-shelf dia film scanner, the kind you can get from Amazon for about €30-€40. It has a tray for a strip of 35mm film, a small display, and SD-card slot and a few buttons. You hit the button and then advance to the next slide. Unfortunately, the results from these scanners were abysmal. Not only were the photos JPEG-only, they were also low-resolution, not very sharp and showed strong compression artifacts. Not what I&#8217;d envisioned. A dedicated flat-bed film scanner was also out of the question, for these will easily set you back €200-€300. The big advantage of these is the fact that they will scan to high-res TIFF, giving you a lot of room to post-process the scans.
 
 <div class="img">
-  <a href="https://www.flickr.com/photos/heipei/16635606099" title="Digitizing old 35mm film negatives by Johannes, on Flickr"><img src="https://farm9.staticflickr.com/8680/16635606099_ce920e88f3_b.jpg" alt="Digitizing old 35mm film negatives" /></a>
+  <a href="https://www.flickr.com/photos/heipei/16635606099" title="Digitizing old 35mm film negatives by Johannes, on Flickr"><img data-echo="https://farm9.staticflickr.com/8680/16635606099_ce920e88f3_b.jpg" alt="Digitizing old 35mm film negatives" /></a>
 </div>
 
 But I have two great cameras at my disposal, both capable of capturing high-resolution RAW files. So I started out devising a way to photograph the negatives in the most convenient way possible. Why scan the negatives instead of the actual prints? Well, the negatives should give you more dynamic range than the film and I was also missing a few prints from the pouches, while the negatives were mostly complete.
@@ -32,11 +32,11 @@ But I have two great cameras at my disposal, both capable of capturing high-reso
   <table>
     <tr>
       <td>
-        <a href="https://www.flickr.com/photos/heipei/16821712845" title="Digitizing old 35mm film negatives by Johannes, on Flickr"><img src="https://farm9.staticflickr.com/8582/16821712845_97e10d220c.jpg" alt="Digitizing old 35mm film negatives" /></a>
+        <a href="https://www.flickr.com/photos/heipei/16821712845" title="Digitizing old 35mm film negatives by Johannes, on Flickr"><img data-echo="https://farm9.staticflickr.com/8582/16821712845_97e10d220c.jpg" alt="Digitizing old 35mm film negatives" /></a>
       </td>
       
       <td>
-        <a href="https://www.flickr.com/photos/heipei/16821712675" title="Digitizing old 35mm film negatives by Johannes, on Flickr"><img src="https://farm8.staticflickr.com/7283/16821712675_831eea3fd8.jpg" width="500" height="333" alt="Digitizing old 35mm film negatives" /></a>
+        <a href="https://www.flickr.com/photos/heipei/16821712675" title="Digitizing old 35mm film negatives by Johannes, on Flickr"><img data-echo="https://farm8.staticflickr.com/7283/16821712675_831eea3fd8.jpg" width="500" height="333" alt="Digitizing old 35mm film negatives" /></a>
       </td>
     </tr>
   </table>
@@ -48,11 +48,11 @@ I built a simple cardboard box, cut a 35mm-ish hole into the side, set up my wir
   <table>
     <tr>
       <td>
-        <a href="https://www.flickr.com/photos/heipei/16201791273" title="Digitizing old 35mm film negatives by Johannes, on Flickr"><img src="https://farm9.staticflickr.com/8742/16201791273_b2ef443387.jpg" alt="Digitizing old 35mm film negatives" /></a>
+        <a href="https://www.flickr.com/photos/heipei/16201791273" title="Digitizing old 35mm film negatives by Johannes, on Flickr"><img data-echo="https://farm9.staticflickr.com/8742/16201791273_b2ef443387.jpg" alt="Digitizing old 35mm film negatives" /></a>
       </td>
       
       <td>
-        <a href="https://www.flickr.com/photos/heipei/16820602862" title="Digitizing old 35mm film negatives by Johannes, on Flickr"><img src="https://farm8.staticflickr.com/7613/16820602862_c67440ab06.jpg" alt="Digitizing old 35mm film negatives" /></a>
+        <a href="https://www.flickr.com/photos/heipei/16820602862" title="Digitizing old 35mm film negatives by Johannes, on Flickr"><img data-echo="https://farm8.staticflickr.com/7613/16820602862_c67440ab06.jpg" alt="Digitizing old 35mm film negatives" /></a>
       </td>
     </tr>
   </table>
@@ -62,26 +62,26 @@ Long story short, after some experimentation and some fiddling I was able to get
 
 <div class="aligncenter img">
   <div>
-    <a href="https://www.flickr.com/photos/heipei/16795847826" title="Digitizing old 35mm film negatives by Johannes, on Flickr"><img src="https://farm8.staticflickr.com/7602/16795847826_d96e4a3216_b.jpg" alt="Digitizing old 35mm film negatives" /></a>
+    <a href="https://www.flickr.com/photos/heipei/16795847826" title="Digitizing old 35mm film negatives by Johannes, on Flickr"><img data-echo="https://farm8.staticflickr.com/7602/16795847826_d96e4a3216_b.jpg" alt="Digitizing old 35mm film negatives" /></a>
   </div>
   
   <table>
     <tr>
       <td>
-        <a href="https://www.flickr.com/photos/heipei/16199364614" title="Digitizing old 35mm film negatives by Johannes, on Flickr"><img src="https://farm9.staticflickr.com/8723/16199364614_4397035d8f_c.jpg" alt="Digitizing old 35mm film negatives" /></a>
+        <a href="https://www.flickr.com/photos/heipei/16199364614" title="Digitizing old 35mm film negatives by Johannes, on Flickr"><img data-echo="https://farm9.staticflickr.com/8723/16199364614_4397035d8f_c.jpg" alt="Digitizing old 35mm film negatives" /></a>
       </td>
       
       <td>
-        <a href="https://www.flickr.com/photos/heipei/16634330960" title="Digitizing old 35mm film negatives by Johannes, on Flickr"><img src="https://farm8.staticflickr.com/7653/16634330960_dafb814bf6_c.jpg" width="531" height="800" alt="Digitizing old 35mm film negatives" /></a>
+        <a href="https://www.flickr.com/photos/heipei/16634330960" title="Digitizing old 35mm film negatives by Johannes, on Flickr"><img data-echo="https://farm8.staticflickr.com/7653/16634330960_dafb814bf6_c.jpg" width="531" height="800" alt="Digitizing old 35mm film negatives" /></a>
       </td>
     </tr>
   </table>
   
   <div>
-    <a href="https://www.flickr.com/photos/heipei/16199363344" title="Digitizing old 35mm film negatives by Johannes, on Flickr"><img src="https://farm8.staticflickr.com/7643/16199363344_c70e1caf89_b.jpg" alt="Digitizing old 35mm film negatives" /></a>
+    <a href="https://www.flickr.com/photos/heipei/16199363344" title="Digitizing old 35mm film negatives by Johannes, on Flickr"><img data-echo="https://farm8.staticflickr.com/7643/16199363344_c70e1caf89_b.jpg" alt="Digitizing old 35mm film negatives" /></a>
   </div>
   
   <div>
-    <a href="https://www.flickr.com/photos/heipei/16635606279" title="Digitizing old 35mm film negatives by Johannes, on Flickr"><img src="https://farm8.staticflickr.com/7613/16635606279_751949338e_b.jpg" width="1024" height="680" alt="Digitizing old 35mm film negatives" /></a>
+    <a href="https://www.flickr.com/photos/heipei/16635606279" title="Digitizing old 35mm film negatives by Johannes, on Flickr"><img data-echo="https://farm8.staticflickr.com/7613/16635606279_751949338e_b.jpg" width="1024" height="680" alt="Digitizing old 35mm film negatives" /></a>
   </div>
 </div>

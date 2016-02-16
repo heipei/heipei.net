@@ -12,7 +12,7 @@ categories:
   - Gentoo
   - Linux
 ---
-<img src="https://heipei.net/weblog/imagemagick.png" class="alignleft" />As you might have noticed I tend to shoot a lot of photos (and recently the occasional video) on events such as parties and birthdays. Being a Linux user, and a strong believer in straight-out-of-camera shots, I tend to shy away from individual post-processing for my shots. I might crop the occasional shot, especially when it is to be used in a blog-post or something similar, but usually I simply like to throw a batch of images into a simple workflow to upload them to the web.
+<img data-echo="https://heipei.net/weblog/imagemagick.png" class="alignleft" />As you might have noticed I tend to shoot a lot of photos (and recently the occasional video) on events such as parties and birthdays. Being a Linux user, and a strong believer in straight-out-of-camera shots, I tend to shy away from individual post-processing for my shots. I might crop the occasional shot, especially when it is to be used in a blog-post or something similar, but usually I simply like to throw a batch of images into a simple workflow to upload them to the web.
 
 **Photos**
   
@@ -28,7 +28,7 @@ Finally, if I want to upload the batch, I resize and sharpen the photos using th
 
 **Videos**
   
-<img src="https://heipei.net/weblog/ffmpeg.png" class="alignleft" />I&#8217;ve just recently started shooting video, but I already love the functionality on my EOS 60D. Even though I use the Magic Lantern firmware (you absolutely should too!) to reduce the bitrate of the videos by half, the 1080p25 videos from the EOS are still way too large to be used in any reasonable way, so it&#8217;s a good idea to compress them. I start by merging all the videos of an event into one file, using the mkvtools package:
+<img data-echo="https://heipei.net/weblog/ffmpeg.png" class="alignleft" />I&#8217;ve just recently started shooting video, but I already love the functionality on my EOS 60D. Even though I use the Magic Lantern firmware (you absolutely should too!) to reduce the bitrate of the videos by half, the 1080p25 videos from the EOS are still way too large to be used in any reasonable way, so it&#8217;s a good idea to compress them. I start by merging all the videos of an event into one file, using the mkvtools package:
   
 `mkvmerge MVI_0001.MOV + MVI_0002.MOV -o MVI_EVENT.MOV`
   

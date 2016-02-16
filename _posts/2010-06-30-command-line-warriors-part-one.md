@@ -12,7 +12,7 @@ categories:
   - Gentoo
   - Linux
 ---
-<img src="https://heipei.net/weblog/terminal.png" alt="Terminal" class="alignleft" />This is a post about some things you might have used a graphical tool for in the past, but which can be done just as well using command-line tools. Since I keep finding these little gems I hope I can continue this kind of post in the future. I&#8217;ll try to categorize the tips and I&#8217;ll only post the functionality I recently discovered and use myself, so this is not a reference for any of the programs mentioned.
+<img data-echo="https://heipei.net/weblog/terminal.png" alt="Terminal" class="alignleft" />This is a post about some things you might have used a graphical tool for in the past, but which can be done just as well using command-line tools. Since I keep finding these little gems I hope I can continue this kind of post in the future. I&#8217;ll try to categorize the tips and I&#8217;ll only post the functionality I recently discovered and use myself, so this is not a reference for any of the programs mentioned.
 
 **Photography**
   

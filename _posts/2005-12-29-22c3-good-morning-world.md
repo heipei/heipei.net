@@ -13,7 +13,7 @@ categories:
   - Allgemein
   - CCC
 ---
-[<img src="https://static.flickr.com/39/78891438_95449a8c22_m.jpg" width="180" height="240" alt="DSC00603" class="alignleft" />](https://secure.flickr.com/photos/heipei/tags/22c3/ "Photo Sharing")Yes, the forecast was accurate. We have about 10cm of fresh snow here, and it doesnt look like stopping at the moment. I just woke up from a somewhat uncomfortable night in the Hackcenter, and still didnt have breakfast, so thats my priority right now ;).
+[<img data-echo="https://static.flickr.com/39/78891438_95449a8c22_m.jpg" width="180" height="240" alt="DSC00603" class="alignleft" />](https://secure.flickr.com/photos/heipei/tags/22c3/ "Photo Sharing")Yes, the forecast was accurate. We have about 10cm of fresh snow here, and it doesnt look like stopping at the moment. I just woke up from a somewhat uncomfortable night in the Hackcenter, and still didnt have breakfast, so thats my priority right now ;).
   
 I hope I wont forget to watch some lectures today. Especially fd0&#8217;s talk on Atmel for Dummies.
   

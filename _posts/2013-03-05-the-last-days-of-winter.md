@@ -13,7 +13,7 @@ categories:
 ---
 As much fun as we had during our only winter-hike this season, I really hope the white season does not return. We&#8217;ve had enough cold and way too few hours of sun. So, enjoy these photos, may they be the last frigid ones for a while.
 
-<div class="center">
+<div class="img aligncenter">
   <div>
     <a href="https://secure.flickr.com/photos/heipei/8504013669/" title="Schneewanderung by heipei, on Flickr"><img data-echo="https://farm9.staticflickr.com/8369/8504013669_9093ddb972_b.jpg" alt="Schneewanderung" /></a>
   </div>

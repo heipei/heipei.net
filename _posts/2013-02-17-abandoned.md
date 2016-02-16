@@ -14,7 +14,7 @@ categories:
 ---
 We went for a walk behind the Aachen Westbahnhof (a major freight rail station) where they are currently tearing up the old railway tracks to make room for the new Campus West of RWTH Aachen University. Since this is a construction site, we went on a sunny Sunday morning. To be honest it is not that interesting and you have to walk about a kilometer to get there from the street. Still, in terms of photography there are some interesting subjects to choose from. You can also tell that I&#8217;m getting more comfortable with post-processing my photos each day. Although I&#8217;m not a big fan, I occasionally use presets which emulate specific kinds of analog film.
 
-<div class="center">
+<div class="img aligncenter">
   <div>
     <a href="https://secure.flickr.com/photos/heipei/8474199596/" title="Abandoned by heipei, on Flickr"><img data-echo="https://farm9.staticflickr.com/8519/8474199596_42c4bd8230_b.jpg" alt="Abandoned" /></a>
   </div>

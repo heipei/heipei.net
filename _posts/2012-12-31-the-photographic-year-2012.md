@@ -17,7 +17,7 @@ Wow, what a year. It&#8217;s already over, time flew by really quickly. So it&#8
   
 I started the year by upgrading my EOS 400D with a shiny new EOS 60D ([Blog-Entry](https://heipei.net/2012/01/07/2011-in-photos/)). I wrote at length about the vastly superior ISO quality and the video mode, and I have made extensive use of both features.
 
-<div class="center">
+<div class="img aligncenter">
   <table>
     <tr>
       <td>
@@ -41,7 +41,7 @@ I started the year by upgrading my EOS 400D with a shiny new EOS 60D ([Blog-Entr
   
 I shot a few birthdays in February. Additionally, I took my 60D out in the field on a winter-wonderland hike near Monschau. It was just Katrin and me and we hiked through thick snow for a few hours without seeing anyone else. Definitely something I look forward to again next year.
 
-<div class="center">
+<div class="img aligncenter">
   <table>
     <tr>
       <td>
@@ -69,7 +69,7 @@ I shot a few birthdays in February. Additionally, I took my 60D out in the field
   
 Not much in March. We went through Eupen, Limbourg and Verviers (all in nearby Belgium) in one day, mainly cause I was a little restless and wanted to shoot stuff. Unfortunately these cities look a little dreary this time of the year. I was in Paris on a conference but didn&#8217;t take along my DSLR but instead only photographed using my really crappy mobile phone camera. Last time I was going to be in that position&#8230; I also went on a [heli-ride near Aachen](https://heipei.net/2012/04/01/heli-nrw-von-aachen-merzbruck/), but it was relatively unspectacular.
 
-<div class="center">
+<div class="img aligncenter">
   <a href="https://secure.flickr.com/photos/heipei/6826824476/" title="Kleine Belgien-Tour by heipei, on Flickr"><img class="center" src="https://farm8.staticflickr.com/7061/6826824476_d75101002d_b.jpg" alt="Kleine Belgien-Tour" /></a>
 </div>
 
@@ -79,13 +79,15 @@ Not much in March. We went through Eupen, Limbourg and Verviers (all in nearby B
   
 Nothing major, some birthdays and the usual amount of parties ;)
   
-[<img class="center" src="https://farm8.staticflickr.com/7092/7080493237_2749a32c4f_b.jpg" alt="Recent Party Shots ;)" />](https://secure.flickr.com/photos/heipei/7080493237/ "Recent Party Shots ;) by heipei, on Flickr")
+<div class="img aligncenter">
+<img src="https://farm8.staticflickr.com/7092/7080493237_2749a32c4f_b.jpg" alt="Recent Party Shots ;)" />
+</div>
   
 **May**
   
 On our annual may-day hike (think beer + dense forest) I didn&#8217;t take along my DSLR and regretted my decision afterwards. All the time I was thinking about something more compact than a 60D + lens, yet with similar image quality. One day later I went by the shop after work and snapped up the Fujifilm Finepix X100, and with it the most fun I ever had with a camera. I also [blogged about the little wonder that is the X100](https://heipei.net/2012/08/11/fujifilm-finepix-x100-rediscovering-photography/), and to this day still stand by every line of praise sung for this photographic gem. Interestingly enough, the X100 also made me appreciate the strengths (and weaknesses) of my 60D even more. It also taught me about the importance of post-processing (or &#8220;developing&#8221;) my photos.
 
-<div class="center">
+<div class="img aligncenter">
   <table>
     <tr>
       <td>
@@ -109,7 +111,7 @@ On our annual may-day hike (think beer + dense forest) I didn&#8217;t take along
   
 I shot about a thousand photos that month, and all of them with my X100. Part of the reason was that I only took this camera along by choice, but I also had it with me on occasions I would have never taken my DSLR (small parties, weddings in a church, a wine-tasting, during a soccer game). I started experimenting with photo editing software this month, first trying to do everything on Linux so I wouldn&#8217;t have to switch computers.
 
-<div class="center">
+<div class="img aligncenter">
   <table>
     <tr>
       <td>
@@ -133,7 +135,7 @@ I shot about a thousand photos that month, and all of them with my X100. Part of
   
 Once again, the X100 was the only camera I used this month. I was in a TV studio as a spectator (and for technical assistance) and nobody minded me and the funny looking camera. During our annual cocktail party I was able to grab some amazing shots from the light-filled stage, something that would have been lost with a DSLR and a flash. And then, at the end of the month Katrin and I went to Paris for a few days. This was truly the [highlight of my year so far](https://heipei.net/2012/12/18/streets-of-paris/).
 
-<div class="center">
+<div class="img aligncenter">
   <table>
     <tr>
       <td>
@@ -161,7 +163,7 @@ Once again, the X100 was the only camera I used this month. I was in a TV studio
   
 Relatively uneventful. We rode through Aachen on our bikes and I took some nice shots of old churches / buildings, but that&#8217;s about it.
 
-<div class="center">
+<div class="img aligncenter">
   <table>
     <tr>
       <td>
@@ -185,7 +187,7 @@ Relatively uneventful. We rode through Aachen on our bikes and I took some nice 
   
 Just one event in September: [Our Canada vacation!](http://holiday.heipei.net/) We flew to Vancouver (on the west coast) and drove around in our usual fashion, trying to get a look at everything at the expense of sore feet. I thought long and hard about which camera to take, and in the end I [brought along my 60D and my X100](https://heipei.net/2012/10/03/x100-vs-eos-60d-the-inevitable-showdown/) ;) This was the only sane choice, and I didn&#8217;t mind the weight at all. When hiking on rough trails and trying to get shots of the landscape, the 60D would be my first choice. Photographing the plate of sushi in front of me at the restaurant: Nice and inconspicuous: The X100.
 
-<div class="center">
+<div class="img aligncenter">
   <a href="https://secure.flickr.com/photos/heipei/8002139612/" title="Day 10: Lake Louise & Moraine Lake by heipei, on Flickr"><img data-echo="https://farm9.staticflickr.com/8029/8002139612_c402f91d63_b.jpg" alt="Day 10: Lake Louise & Moraine Lake" /></a>
 </div>
 
@@ -199,7 +201,7 @@ Birthdays, parties, that&#8217;s it!
   
 Not that much except a very nice hike through the Hohes Venn near Malmedy (Belgium). This time I was really happy to have brought along my 60D and the versatility of my 18-200mm lens to create effects not possible with the fixed focal length of my X100.
 
-<div class="center">
+<div class="img aligncenter">
   <table>
     <tr>
       <td>
@@ -221,7 +223,7 @@ I was on two private parties where I wasn&#8217;t sure how much people would min
   
 When Christmas came I was so wired camera-wise that I brought along my X100, my 60D, my three prime lenses and flash, and I managed to use all of these! Christmas (and the year 2012) was truly saved.
 
-<div class="center">
+<div class="img aligncenter">
   <a href="https://secure.flickr.com/photos/heipei/8325473264/" title="Zeche Zollverein by heipei, on Flickr"><img data-echo="https://farm9.staticflickr.com/8082/8325473264_252cc424d5_b.jpg" alt="Zeche Zollverein" /></a>
 </div>
 

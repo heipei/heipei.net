@@ -23,7 +23,11 @@ Well the biggest piece of news is probably that [Katrin](http://morenz.de) and I
 
 The other thing that managed to sneak in amidst all of the stress we had this spring/summer were two lively and insubordinate little cats by the names of &#8220;Buffy&#8221; and &#8220;Telefonmann&#8221;. It is certainly a lot more demanding to take care of someone other than yourself, especially in the case of these two cats which always seem to be hungry. But the joy these two little creatures give us more than makes up for any additional effort. Pro-tip for cat-owners: Get a roomba!
 
-[<img data-echo="https://farm9.staticflickr.com/8244/8562086647_454695bcab_b.jpg" alt="Telefonmann" class="aligncenter" />](https://secure.flickr.com/photos/heipei/8562086647/ "Telefonmann by heipei, on Flickr")
+<div class="img aligncenter">
+<a href="https://secure.flickr.com/photos/heipei/8562086647">
+<img data-echo="https://farm9.staticflickr.com/8244/8562086647_454695bcab_b.jpg" alt="Telefonmann" class="aligncenter" />
+</a>
+</div>
 
 ### Photography
 

@@ -163,7 +163,7 @@ h3 {
     margin: 15px 0px 5px 0px;
 }
 
-h2, h2.post-title, .post h2, .post a:hover, .post h2 a:visited, .post h2 a {
+h2, h2.post-title, .post h2, .post h2 a:visited, .post h2 a {
     font-size: 40px;
     text-decoration: none;
     line-height: 1.0em;
@@ -207,7 +207,7 @@ div.navigation {
     margin-bottom: 20px;
 }
 
-div#content img.alignleft {
+.alignleft, div#content img.alignleft {
     float:left;
     text-align:left;
     display: inline;
@@ -232,9 +232,10 @@ div#content img.alignleft {
     margin-right: auto;
 }
 
-.alignright {
+.alignright, div#content a img.alignright {
     float:right;
     text-align:right;
+    margin-left: 5px;
 }
 
 div#content div.entrytext div.center a img {
@@ -253,7 +254,6 @@ div#content a img {
 }
 
 div#content a img:hover {
-    /*transform: scale(0.99);*/
     opacity: 0.8;
 }
 

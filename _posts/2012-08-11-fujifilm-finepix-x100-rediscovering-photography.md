@@ -61,23 +61,35 @@ I know that I would always compare pictures taken with a second camera to the qu
   
 Yes, I really want to be able to adjust aperture, shutter speed, ISO, metering, shoot RAW, etc. Being able to mount my Canon flashes to the X100 is a big plus (even if they&#8217;re fully manual), and sync speeds which are much faster than my 60D are great. The X100 has a fixed prime lens, i.e. no &#8220;zooming&#8221;, period. Having used my 50mm and 30mm exclusively for certain events I knew what that meant and was fine with it. I can lock focus or exposure independently and recompose like I&#8217;m used too. The hybrid OVF/EVF is great too. I try to use the OVF most of the time, but fall back to the EVF whenever there is a tricky shot in terms of auto-exposure.
 
-[<img data-echo="https://farm8.staticflickr.com/7122/7711207632_330a9def7b_b.jpg" alt="Paris" class="aligncenter" />](https://secure.flickr.com/photos/heipei/7711207632/ "Paris by heipei, on Flickr")
+<div class="img aligncenter">
+<a href="https://secure.flickr.com/photos/heipei/7711207632/"><img data-echo="https://farm8.staticflickr.com/7122/7711207632_330a9def7b_b.jpg" alt="Paris" /></a>
+</div>
 
 **Accessories**
   
 Since the X100 caters to a specific breed of photographer, you can guess that there are lot of people out there trying to optimize and customize their camera. First thing you should do is to get 2 additional batteries (7-8€ on Amazon), a single one will never last more than half a day. I also got the X100 fake leather case. I find the bottom part to protect the camera from rough underground when I set it down, but I almost never use the top cover, even when the X100 is in my backpack. I got myself the lens hood, filter adapter and an UV filter for obvious reasons. A nice addition is a so-called soft-release button which screws into the thread on the shutter release. I&#8217;ve only been able to find these on eBay in Germany. Finally, I ordered a camera strap from [Gordy&#8217;s Camera Straps](http://www.gordyscamerastraps.com/), see the photo below.
 
-[<img data-echo="https://farm6.staticflickr.com/5457/7427496252_3860f59d16_b.jpg" alt="Gordy's Camera Strap" class="aligncenter" />](https://secure.flickr.com/photos/heipei/7427496252/ "Gordy's Camera Strap by heipei, on Flickr")
+<div class="img aligncenter">
+<a href="https://secure.flickr.com/photos/heipei/7427496252/"><img data-echo="https://farm6.staticflickr.com/5457/7427496252_3860f59d16_b.jpg" alt="Gordy's Camera Strap" /></a>
+</div>
 
 **Verdict**
   
 Without reiterating everything said about this great little camera, here is what made lasting impressions on me. I really started to enjoy photography much more again. The X100 is slower than the 60D in almost every aspect, but that automatically forces me to consider a subject before shooting multiple frames. Also, the fixed focal length has a similar effect. The way that Fujifilm tuned the in-camera JPEG processing is breathtaking. I exclusively shoot JPEG with the Astia Film mode and some minor tweaks to shadows. With landscapes and city this is already great, but as soon as people enter the picture you have perfect exposure and warm natural color rendition 95% of the time. I&#8217;ve repeatedly been asked whether an out-of-camera JPEG was postprocessed by savvy photographers. Funny thing about the hardware of this baby is that virtually everyone I know wanted to know what kind of funny film camera I was using.
 
-[<img data-echo="https://farm9.staticflickr.com/8141/7620319638_ecf1d94f6c_b.jpg" alt="Dance-off" class="aligncenter" />](https://secure.flickr.com/photos/heipei/7620319638/ "Dance-off by heipei, on Flickr")
+<div class="img aligncenter">
+<a href="https://secure.flickr.com/photos/heipei/7620319638/">
+<img data-echo="https://farm9.staticflickr.com/8141/7620319638_ecf1d94f6c_b.jpg" alt="Dance-off" />
+</a>
+</div>
 
 Carrying this camera is a lot of fun. It makes me want to take it along every time I leave the house. It&#8217;s very unobtrusive, you don&#8217;t get noticed while taking shots or carrying it. We were in Paris last week, and I was able to hop on and off the metro and squeeze my way through crowds of people much better than with a DSLR.
 
-[<img data-echo="https://farm9.staticflickr.com/8293/7716165768_ac6eae6893_b.jpg" alt="Paris" class="aligncenter" />](https://secure.flickr.com/photos/heipei/7716165768/ "Paris by heipei, on Flickr")
+<div class="img aligncenter">
+<a href="https://secure.flickr.com/photos/heipei/7716165768/">
+<img data-echo="https://farm9.staticflickr.com/8293/7716165768_ac6eae6893_b.jpg" alt="Paris" />
+</a>
+</div>
 
 What surprised me most was that I also rediscovered the merits of post-processing my photos. Seeing the results the X100 was able to achieve using its film profiles made me realize how much I might have missed out in the past with my DSLR. I gave Lightroom a try and am really happy with its post-processing abilities, though I still have to find a workflow that fits my multi-PC Linux/OSX setup.
 

@@ -19,6 +19,7 @@ layout: default
   </article>
 {% endfor %}
 
+<nav>
 <div class="pagination">
     {% if paginator.previous_page %}
     <a href="{{ paginator.previous_page_path }}" class="previous">Previous</a>
@@ -32,5 +33,6 @@ layout: default
     <span class="next ">Next</span>
     {% endif %}
 </div>
+</nav>
 
 <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>

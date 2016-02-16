@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+<nav>
 <div class="navigation">
     {% if page.previous.url %}
     <a class="alignleft" href="{{page.previous.url}}">&laquo; {{page.previous.title}}</a>
@@ -9,6 +10,8 @@ layout: default
     <a class="alignright" href="{{page.next.url}}">{{page.next.title}} &raquo;</a>
     {% endif %}
 </div>
+</nav>
+
 <div style="clear:both;"></div>
 <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
 

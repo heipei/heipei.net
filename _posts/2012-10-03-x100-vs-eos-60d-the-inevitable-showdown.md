@@ -12,7 +12,7 @@ categories:
 ---
 I thought about calling this post &#8220;A tale of two cameras&#8221;, but showdown sounds much more dramatic, so here we go.
 
-<img data-echo="https://heipei.net/weblog/x100_60d_bw.jpg" title="X100 vs. EOS 60D" class="center" />
+<img src="/images/ajax.gif" data-echo="https://heipei.net/weblog/x100_60d_bw.jpg" title="X100 vs. EOS 60D" class="center" />
 
 As you probably know I bought not one but two cameras this year. I started with the relatively conservative choice of updating my DSLR from the EOS 400D to the EOS 60D. I didn&#8217;t regret that purchase one bit. But then I got myself the Fujifilm Finepix X100 a few months later, at basically the same price-tag as the EOS 60D.
 
@@ -48,11 +48,11 @@ By now I&#8217;ve developed a kind of instinct when to use which camera. Wheneve
   <table>
     <tr>
       <td>
-        <a href="https://secure.flickr.com/photos/heipei/8011054777/" title="Day 13: Revelstoke to Vernon by heipei, on Flickr"><img data-echo="https://farm9.staticflickr.com/8169/8011054777_4a7af988b1_b.jpg" alt="Day 13: Revelstoke to Vernon" /></a>
+        <a href="https://secure.flickr.com/photos/heipei/8011054777/" title="Day 13: Revelstoke to Vernon by heipei, on Flickr"><img src="/images/ajax.gif" data-echo="https://farm9.staticflickr.com/8169/8011054777_4a7af988b1_b.jpg" alt="Day 13: Revelstoke to Vernon" /></a>
       </td>
       
       <td>
-        <a href="https://secure.flickr.com/photos/heipei/8034325451/" title="Day 20: Fog in Ucluelet by heipei, on Flickr"><img data-echo="https://farm9.staticflickr.com/8459/8034325451_03caf3d2f3_b.jpg" alt="Day 20: Fog in Ucluelet" /></a>
+        <a href="https://secure.flickr.com/photos/heipei/8034325451/" title="Day 20: Fog in Ucluelet by heipei, on Flickr"><img src="/images/ajax.gif" data-echo="https://farm9.staticflickr.com/8459/8034325451_03caf3d2f3_b.jpg" alt="Day 20: Fog in Ucluelet" /></a>
       </td>
     </tr>
   </table>
@@ -66,11 +66,11 @@ But the EOS 60D has the clear advantage in outdoor situations. Here, white-balan
   <table>
     <tr>
       <td>
-        <a href="https://secure.flickr.com/photos/heipei/7974784557/" title="Granville Island by heipei, on Flickr"><img data-echo="https://farm9.staticflickr.com/8039/7974784557_e8048c6e28_b.jpg" alt="Granville Island" /></a>
+        <a href="https://secure.flickr.com/photos/heipei/7974784557/" title="Granville Island by heipei, on Flickr"><img src="/images/ajax.gif" data-echo="https://farm9.staticflickr.com/8039/7974784557_e8048c6e28_b.jpg" alt="Granville Island" /></a>
       </td>
       
       <td>
-        <a href="https://secure.flickr.com/photos/heipei/7998659983/" title="Day 9: Icefield Parkway by heipei, on Flickr"><img data-echo="https://farm9.staticflickr.com/8038/7998659983_6f54710496_b.jpg" alt="Day 9: Icefield Parkway" /></a>
+        <a href="https://secure.flickr.com/photos/heipei/7998659983/" title="Day 9: Icefield Parkway by heipei, on Flickr"><img src="/images/ajax.gif" data-echo="https://farm9.staticflickr.com/8038/7998659983_6f54710496_b.jpg" alt="Day 9: Icefield Parkway" /></a>
       </td>
     </tr>
   </table>

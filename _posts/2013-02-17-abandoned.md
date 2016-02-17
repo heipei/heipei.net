@@ -16,37 +16,37 @@ We went for a walk behind the Aachen Westbahnhof (a major freight rail station) 
 
 <div class="img aligncenter">
   <div>
-    <a href="https://secure.flickr.com/photos/heipei/8474199596/" title="Abandoned by heipei, on Flickr"><img data-echo="https://farm9.staticflickr.com/8519/8474199596_42c4bd8230_b.jpg" alt="Abandoned" /></a>
+    <a href="https://secure.flickr.com/photos/heipei/8474199596/" title="Abandoned by heipei, on Flickr"><img src="/images/ajax.gif" data-echo="https://farm9.staticflickr.com/8519/8474199596_42c4bd8230_b.jpg" alt="Abandoned" /></a>
   </div>
   
   <table>
     <tr>
       <td>
-        <a href="https://secure.flickr.com/photos/heipei/8471510258/" title="Abandoned by heipei, on Flickr"><img data-echo="https://farm9.staticflickr.com/8528/8471510258_b5703c1964_z.jpg" alt="Abandoned" /></a>
+        <a href="https://secure.flickr.com/photos/heipei/8471510258/" title="Abandoned by heipei, on Flickr"><img src="/images/ajax.gif" data-echo="https://farm9.staticflickr.com/8528/8471510258_b5703c1964_z.jpg" alt="Abandoned" /></a>
       </td>
       
       <td>
-        <a href="https://secure.flickr.com/photos/heipei/8468793032/" title="Abandoned by heipei, on Flickr"><img data-echo="https://farm9.staticflickr.com/8248/8468793032_e82c2bd6c4_z.jpg" alt="Abandoned" /></a>
+        <a href="https://secure.flickr.com/photos/heipei/8468793032/" title="Abandoned by heipei, on Flickr"><img src="/images/ajax.gif" data-echo="https://farm9.staticflickr.com/8248/8468793032_e82c2bd6c4_z.jpg" alt="Abandoned" /></a>
       </td>
     </tr>
   </table>
   
   <div>
-    <a href="https://secure.flickr.com/photos/heipei/8471509484/" title="Abandoned by heipei, on Flickr"><img data-echo="https://farm9.staticflickr.com/8235/8471509484_24516537ca_b.jpg" alt="Abandoned" /></a>
+    <a href="https://secure.flickr.com/photos/heipei/8471509484/" title="Abandoned by heipei, on Flickr"><img src="/images/ajax.gif" data-echo="https://farm9.staticflickr.com/8235/8471509484_24516537ca_b.jpg" alt="Abandoned" /></a>
   </div>
   
   <table>
     <tr>
       <td>
-        <a href="https://secure.flickr.com/photos/heipei/8474199978/" title="Abandoned by heipei, on Flickr"><img data-echo="https://farm9.staticflickr.com/8383/8474199978_e169ed44cc_z.jpg" alt="Abandoned" /></a>
+        <a href="https://secure.flickr.com/photos/heipei/8474199978/" title="Abandoned by heipei, on Flickr"><img src="/images/ajax.gif" data-echo="https://farm9.staticflickr.com/8383/8474199978_e169ed44cc_z.jpg" alt="Abandoned" /></a>
       </td>
       
       <td>
-        <a href="https://secure.flickr.com/photos/heipei/8479479408/" title="Lok by heipei, on Flickr"><img data-echo="https://farm9.staticflickr.com/8236/8479479408_1c80396992_z.jpg" alt="Lok" /></a>
+        <a href="https://secure.flickr.com/photos/heipei/8479479408/" title="Lok by heipei, on Flickr"><img src="/images/ajax.gif" data-echo="https://farm9.staticflickr.com/8236/8479479408_1c80396992_z.jpg" alt="Lok" /></a>
       </td>
       
       <td>
-        <a href="https://secure.flickr.com/photos/heipei/8464911780/" title="Abandoned by heipei, on Flickr"><img data-echo="https://farm9.staticflickr.com/8096/8464911780_38cc0fabf2_z.jpg" alt="Abandoned" /></a>
+        <a href="https://secure.flickr.com/photos/heipei/8464911780/" title="Abandoned by heipei, on Flickr"><img src="/images/ajax.gif" data-echo="https://farm9.staticflickr.com/8096/8464911780_38cc0fabf2_z.jpg" alt="Abandoned" /></a>
       </td>
     </tr>
   </table>

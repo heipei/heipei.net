@@ -9,7 +9,7 @@ permalink: /2012/08/11/fujifilm-finepix-x100-rediscovering-photography/
 categories:
   - Allgemein
 ---
-[<img data-echo="https://farm9.staticflickr.com/8144/7148227213_bf536f48fb_m.jpg" width="240" height="240" alt="Self-portrait" class="alignright" />](https://secure.flickr.com/photos/heipei/7148227213/ "Self-portrait by heipei, on Flickr")The title of this post might sound a little over-the-top (and if you read up on the X100 you know dozens of other blog-posts which sound similar), but I think it is accurate. Three months ago I decided to head to the local photo-shop ([Audiophil-Foto](http://audiophilfoto.de/index.php)) and get my hands on the Fujifilm Finepix X100. The X100 is a (relatively) compact camera with a fixed prime lens, an APS-C sensor and a so-called hybrid viewfinder. Obviously I had read countless reviews and blog-posts about this camera, especially given the price. Also, I had just purchased the EOS 60D at the beginning of the year, and adding another camera with a very similar pricetag might seem &#8230; excessive. Well, in my opinion it wasn&#8217;t, and still isn&#8217;t, and here is why:
+[<img src="/images/ajax.gif" data-echo="https://farm9.staticflickr.com/8144/7148227213_bf536f48fb_m.jpg" width="240" height="240" alt="Self-portrait" class="alignright" />](https://secure.flickr.com/photos/heipei/7148227213/ "Self-portrait by heipei, on Flickr")The title of this post might sound a little over-the-top (and if you read up on the X100 you know dozens of other blog-posts which sound similar), but I think it is accurate. Three months ago I decided to head to the local photo-shop ([Audiophil-Foto](http://audiophilfoto.de/index.php)) and get my hands on the Fujifilm Finepix X100. The X100 is a (relatively) compact camera with a fixed prime lens, an APS-C sensor and a so-called hybrid viewfinder. Obviously I had read countless reviews and blog-posts about this camera, especially given the price. Also, I had just purchased the EOS 60D at the beginning of the year, and adding another camera with a very similar pricetag might seem &#8230; excessive. Well, in my opinion it wasn&#8217;t, and still isn&#8217;t, and here is why:
 
 **Size**
   
@@ -19,21 +19,21 @@ That was the foremost reason for me to get another camera. I love my 60D, but I 
   <table>
     <tr>
       <td>
-        <a href="https://secure.flickr.com/photos/heipei/7700488132/" title="Paris by heipei, on Flickr"><img data-echo="https://farm9.staticflickr.com/8012/7700488132_c778c471d6_z.jpg" alt="Paris" /></a>
+        <a href="https://secure.flickr.com/photos/heipei/7700488132/" title="Paris by heipei, on Flickr"><img src="/images/ajax.gif" data-echo="https://farm9.staticflickr.com/8012/7700488132_c778c471d6_z.jpg" alt="Paris" /></a>
       </td>
       
       <td>
-        <a href="https://secure.flickr.com/photos/heipei/7706919146/" title="Paris by heipei, on Flickr"><img data-echo="https://farm9.staticflickr.com/8142/7706919146_42a5ddd316_z.jpg" alt="Paris" /></a>
+        <a href="https://secure.flickr.com/photos/heipei/7706919146/" title="Paris by heipei, on Flickr"><img src="/images/ajax.gif" data-echo="https://farm9.staticflickr.com/8142/7706919146_42a5ddd316_z.jpg" alt="Paris" /></a>
       </td>
     </tr>
     
     <tr>
       <td>
-        <a href="https://secure.flickr.com/photos/heipei/7706922426/" title="Paris by heipei, on Flickr"><img data-echo="https://farm8.staticflickr.com/7119/7706922426_cf453880c4_z.jpg" alt="Paris" /></a>
+        <a href="https://secure.flickr.com/photos/heipei/7706922426/" title="Paris by heipei, on Flickr"><img src="/images/ajax.gif" data-echo="https://farm8.staticflickr.com/7119/7706922426_cf453880c4_z.jpg" alt="Paris" /></a>
       </td>
       
       <td>
-        <a href="https://secure.flickr.com/photos/heipei/7700483640/" title="Paris by heipei, on Flickr"><img data-echo="https://farm9.staticflickr.com/8005/7700483640_bf3d01d89c_z.jpg" alt="Paris" /></a>
+        <a href="https://secure.flickr.com/photos/heipei/7700483640/" title="Paris by heipei, on Flickr"><img src="/images/ajax.gif" data-echo="https://farm9.staticflickr.com/8005/7700483640_bf3d01d89c_z.jpg" alt="Paris" /></a>
       </td>
     </tr>
   </table>
@@ -47,11 +47,11 @@ I know that I would always compare pictures taken with a second camera to the qu
   <table>
     <tr>
       <td>
-        <a href="https://secure.flickr.com/photos/heipei/7725989452/" title="Paris by heipei, on Flickr"><img data-echo="https://farm9.staticflickr.com/8293/7725989452_bd6dbf195d_b.jpg" alt="Paris" /></a>
+        <a href="https://secure.flickr.com/photos/heipei/7725989452/" title="Paris by heipei, on Flickr"><img src="/images/ajax.gif" data-echo="https://farm9.staticflickr.com/8293/7725989452_bd6dbf195d_b.jpg" alt="Paris" /></a>
       </td>
       
       <td>
-        <a href="https://secure.flickr.com/photos/heipei/7567878426/" title="Light rays by heipei, on Flickr"><img data-echo="https://farm9.staticflickr.com/8289/7567878426_c6591ca34f_b.jpg" alt="Light rays" /></a>
+        <a href="https://secure.flickr.com/photos/heipei/7567878426/" title="Light rays by heipei, on Flickr"><img src="/images/ajax.gif" data-echo="https://farm9.staticflickr.com/8289/7567878426_c6591ca34f_b.jpg" alt="Light rays" /></a>
       </td>
     </tr>
   </table>
@@ -62,7 +62,7 @@ I know that I would always compare pictures taken with a second camera to the qu
 Yes, I really want to be able to adjust aperture, shutter speed, ISO, metering, shoot RAW, etc. Being able to mount my Canon flashes to the X100 is a big plus (even if they&#8217;re fully manual), and sync speeds which are much faster than my 60D are great. The X100 has a fixed prime lens, i.e. no &#8220;zooming&#8221;, period. Having used my 50mm and 30mm exclusively for certain events I knew what that meant and was fine with it. I can lock focus or exposure independently and recompose like I&#8217;m used too. The hybrid OVF/EVF is great too. I try to use the OVF most of the time, but fall back to the EVF whenever there is a tricky shot in terms of auto-exposure.
 
 <div class="img aligncenter">
-<a href="https://secure.flickr.com/photos/heipei/7711207632/"><img data-echo="https://farm8.staticflickr.com/7122/7711207632_330a9def7b_b.jpg" alt="Paris" /></a>
+<a href="https://secure.flickr.com/photos/heipei/7711207632/"><img src="/images/ajax.gif" data-echo="https://farm8.staticflickr.com/7122/7711207632_330a9def7b_b.jpg" alt="Paris" /></a>
 </div>
 
 **Accessories**
@@ -70,7 +70,7 @@ Yes, I really want to be able to adjust aperture, shutter speed, ISO, metering, 
 Since the X100 caters to a specific breed of photographer, you can guess that there are lot of people out there trying to optimize and customize their camera. First thing you should do is to get 2 additional batteries (7-8€ on Amazon), a single one will never last more than half a day. I also got the X100 fake leather case. I find the bottom part to protect the camera from rough underground when I set it down, but I almost never use the top cover, even when the X100 is in my backpack. I got myself the lens hood, filter adapter and an UV filter for obvious reasons. A nice addition is a so-called soft-release button which screws into the thread on the shutter release. I&#8217;ve only been able to find these on eBay in Germany. Finally, I ordered a camera strap from [Gordy&#8217;s Camera Straps](http://www.gordyscamerastraps.com/), see the photo below.
 
 <div class="img aligncenter">
-<a href="https://secure.flickr.com/photos/heipei/7427496252/"><img data-echo="https://farm6.staticflickr.com/5457/7427496252_3860f59d16_b.jpg" alt="Gordy's Camera Strap" /></a>
+<a href="https://secure.flickr.com/photos/heipei/7427496252/"><img src="/images/ajax.gif" data-echo="https://farm6.staticflickr.com/5457/7427496252_3860f59d16_b.jpg" alt="Gordy's Camera Strap" /></a>
 </div>
 
 **Verdict**
@@ -79,7 +79,7 @@ Without reiterating everything said about this great little camera, here is what
 
 <div class="img aligncenter">
 <a href="https://secure.flickr.com/photos/heipei/7620319638/">
-<img data-echo="https://farm9.staticflickr.com/8141/7620319638_ecf1d94f6c_b.jpg" alt="Dance-off" />
+<img src="/images/ajax.gif" data-echo="https://farm9.staticflickr.com/8141/7620319638_ecf1d94f6c_b.jpg" alt="Dance-off" />
 </a>
 </div>
 
@@ -87,7 +87,7 @@ Carrying this camera is a lot of fun. It makes me want to take it along every ti
 
 <div class="img aligncenter">
 <a href="https://secure.flickr.com/photos/heipei/7716165768/">
-<img data-echo="https://farm9.staticflickr.com/8293/7716165768_ac6eae6893_b.jpg" alt="Paris" />
+<img src="/images/ajax.gif" data-echo="https://farm9.staticflickr.com/8293/7716165768_ac6eae6893_b.jpg" alt="Paris" />
 </a>
 </div>
 

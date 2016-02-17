@@ -13,7 +13,7 @@ categories:
 After our first day in NYC it was time to pack our bags and head on. We had some last-minute scheduling changes which meant that we would spend the better part of the next week in the capital, Washington, DC. Like NYC, it would be our first time in Washington and we were really looking forward to it. I had to work most of the time so that left Katrin to explore the city herself. I entrusted her with my X100 and she did not let me down.
 
 <div class="img aligncenter">
-  <a href="https://www.flickr.com/photos/heipei/16011089066" title="Washington, DC by Johannes, on Flickr"><img data-echo="https://farm8.staticflickr.com/7487/16011089066_394367edc0_b.jpg" alt="Washington, DC" /></a>
+  <a href="https://www.flickr.com/photos/heipei/16011089066" title="Washington, DC by Johannes, on Flickr"><img src="/images/ajax.gif" data-echo="https://farm8.staticflickr.com/7487/16011089066_394367edc0_b.jpg" alt="Washington, DC" /></a>
 </div>
 
 After Manhattan, Washington was a completely different experience. It starts with the wide streets, carefully planned when the capital was first envisioned. Lining these huge streets are museums and a lot of federal government buildings. While DC does not have much to offer in terms of a proper downtown city centre, it has an incredible amount of sights, gardens, beautiful architecture and significant landmarks.
@@ -22,17 +22,17 @@ After Manhattan, Washington was a completely different experience. It starts wit
   <table>
     <tr>
       <td>
-        <a href="https://www.flickr.com/photos/heipei/15842299438" title="Washington, DC by Johannes, on Flickr"><img data-echo="https://farm8.staticflickr.com/7574/15842299438_450be86b52_c.jpg" alt="Washington, DC" /></a>
+        <a href="https://www.flickr.com/photos/heipei/15842299438" title="Washington, DC by Johannes, on Flickr"><img src="/images/ajax.gif" data-echo="https://farm8.staticflickr.com/7574/15842299438_450be86b52_c.jpg" alt="Washington, DC" /></a>
       </td>
       
       <td>
-        <a href="https://www.flickr.com/photos/heipei/15806774687" title="Washington, DC by Johannes, on Flickr"><img data-echo="https://farm8.staticflickr.com/7474/15806774687_0213205c19_c.jpg" alt="Washington, DC" /></a>
+        <a href="https://www.flickr.com/photos/heipei/15806774687" title="Washington, DC by Johannes, on Flickr"><img src="/images/ajax.gif" data-echo="https://farm8.staticflickr.com/7474/15806774687_0213205c19_c.jpg" alt="Washington, DC" /></a>
       </td>
     </tr>
   </table>
   
   <div>
-    <a href="https://www.flickr.com/photos/heipei/16036168852" title="Washington, DC by Johannes, on Flickr"><img data-echo="https://farm9.staticflickr.com/8603/16036168852_fe9e0ded4d_b.jpg" alt="Washington, DC" /></a>
+    <a href="https://www.flickr.com/photos/heipei/16036168852" title="Washington, DC by Johannes, on Flickr"><img src="/images/ajax.gif" data-echo="https://farm9.staticflickr.com/8603/16036168852_fe9e0ded4d_b.jpg" alt="Washington, DC" /></a>
   </div>
 </div>
 
@@ -42,11 +42,11 @@ The best spot to start exploring the city is at the US Capitol. You can take a s
   <table>
     <tr>
       <td>
-        <a href="https://www.flickr.com/photos/heipei/15990519581" title="Washington, DC by Johannes, on Flickr"><img data-echo="https://farm8.staticflickr.com/7572/15990519581_6cd87353ca_c.jpg" alt="Washington, DC" /></a>
+        <a href="https://www.flickr.com/photos/heipei/15990519581" title="Washington, DC by Johannes, on Flickr"><img src="/images/ajax.gif" data-echo="https://farm8.staticflickr.com/7572/15990519581_6cd87353ca_c.jpg" alt="Washington, DC" /></a>
       </td>
       
       <td>
-        <a href="https://www.flickr.com/photos/heipei/15797721048" title="Washington, DC by Johannes, on Flickr"><img data-echo="https://farm8.staticflickr.com/7511/15797721048_b89e8d4812_c.jpg" alt="Washington, DC" /></a>
+        <a href="https://www.flickr.com/photos/heipei/15797721048" title="Washington, DC by Johannes, on Flickr"><img src="/images/ajax.gif" data-echo="https://farm8.staticflickr.com/7511/15797721048_b89e8d4812_c.jpg" alt="Washington, DC" /></a>
       </td>
     </tr>
   </table>
@@ -55,22 +55,22 @@ The best spot to start exploring the city is at the US Capitol. You can take a s
 Apart from the all of the federal buildings we managed to explore another beautiful Washington area on foot: Georgetown. This residential neighborhood is located in the North-West of Washington and is home to Georgetown University. I can only recommend wandering through the quiet and picturesque side streets to get a look at the unique architecture and the myriad of absolutely pretty little brick houses.
 
 <div class="img aligncenter">
-  <a href="https://www.flickr.com/photos/heipei/16073984425" title="Washington, DC by Johannes, on Flickr"><img data-echo="https://farm9.staticflickr.com/8651/16073984425_693e0a4bb4_b.jpg" alt="Washington, DC" /></a><br /> 
+  <a href="https://www.flickr.com/photos/heipei/16073984425" title="Washington, DC by Johannes, on Flickr"><img src="/images/ajax.gif" data-echo="https://farm9.staticflickr.com/8651/16073984425_693e0a4bb4_b.jpg" alt="Washington, DC" /></a><br /> 
   
   <table>
     <tr>
       <td>
-        <a href="https://www.flickr.com/photos/heipei/15797721678" title="Washington, DC by Johannes, on Flickr"><img data-echo="https://farm8.staticflickr.com/7568/15797721678_a693a15fca_c.jpg" alt="Washington, DC" /></a>
+        <a href="https://www.flickr.com/photos/heipei/15797721678" title="Washington, DC by Johannes, on Flickr"><img src="/images/ajax.gif" data-echo="https://farm8.staticflickr.com/7568/15797721678_a693a15fca_c.jpg" alt="Washington, DC" /></a>
       </td>
       
       <td>
-        <a href="https://www.flickr.com/photos/heipei/16036863855" title="Washington, DC by Johannes, on Flickr"><img data-echo="https://farm8.staticflickr.com/7499/16036863855_8a999b45fd_c.jpg" alt="Washington, DC" /></a>
+        <a href="https://www.flickr.com/photos/heipei/16036863855" title="Washington, DC by Johannes, on Flickr"><img src="/images/ajax.gif" data-echo="https://farm8.staticflickr.com/7499/16036863855_8a999b45fd_c.jpg" alt="Washington, DC" /></a>
       </td>
     </tr>
   </table>
   
   <div>
-    <a href="https://www.flickr.com/photos/heipei/16048163716" title="Washington, DC by Johannes, on Flickr"><img data-echo="https://farm8.staticflickr.com/7491/16048163716_e9937927e5_b.jpg" alt="Washington, DC" /></a>
+    <a href="https://www.flickr.com/photos/heipei/16048163716" title="Washington, DC by Johannes, on Flickr"><img src="/images/ajax.gif" data-echo="https://farm8.staticflickr.com/7491/16048163716_e9937927e5_b.jpg" alt="Washington, DC" /></a>
   </div>
 </div>
 
@@ -80,11 +80,11 @@ I&#8217;m really glad we got to see Washington. It is the perfect city to spend 
   <table>
     <tr>
       <td>
-        <a href="https://www.flickr.com/photos/heipei/16057205742" title="Washington, DC by Johannes, on Flickr"><img data-echo="https://farm8.staticflickr.com/7554/16057205742_c6ce6358ab.jpg" alt="Washington, DC" /></a>
+        <a href="https://www.flickr.com/photos/heipei/16057205742" title="Washington, DC by Johannes, on Flickr"><img src="/images/ajax.gif" data-echo="https://farm8.staticflickr.com/7554/16057205742_c6ce6358ab.jpg" alt="Washington, DC" /></a>
       </td>
       
       <td>
-        <a href="https://www.flickr.com/photos/heipei/16073268152" title="Washington, DC by Johannes, on Flickr"><img data-echo="https://farm8.staticflickr.com/7531/16073268152_01c55518b4.jpg" alt="Washington, DC" /></a>
+        <a href="https://www.flickr.com/photos/heipei/16073268152" title="Washington, DC by Johannes, on Flickr"><img src="/images/ajax.gif" data-echo="https://farm8.staticflickr.com/7531/16073268152_01c55518b4.jpg" alt="Washington, DC" /></a>
       </td>
     </tr>
   </table>

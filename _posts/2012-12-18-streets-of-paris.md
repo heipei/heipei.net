@@ -16,11 +16,11 @@ I find myself going back to these magical days we spent walking through the stre
   <table>
     <tr>
       <td>
-        <a href="https://secure.flickr.com/photos/heipei/8281349235/" title="Streets of Paris by heipei, on Flickr"><img data-echo="https://farm9.staticflickr.com/8065/8281349235_ffb8f7f5db_b.jpg" alt="Streets of Paris" /></a>
+        <a href="https://secure.flickr.com/photos/heipei/8281349235/" title="Streets of Paris by heipei, on Flickr"><img src="/images/ajax.gif" data-echo="https://farm9.staticflickr.com/8065/8281349235_ffb8f7f5db_b.jpg" alt="Streets of Paris" /></a>
       </td>
       
       <td>
-        <a href="https://secure.flickr.com/photos/heipei/8281345171/" title="Streets of Paris by heipei, on Flickr"><img data-echo="https://farm9.staticflickr.com/8075/8281345171_d3faa7f21b_b.jpg" alt="Streets of Paris" /></a>
+        <a href="https://secure.flickr.com/photos/heipei/8281345171/" title="Streets of Paris by heipei, on Flickr"><img src="/images/ajax.gif" data-echo="https://farm9.staticflickr.com/8075/8281345171_d3faa7f21b_b.jpg" alt="Streets of Paris" /></a>
       </td>
     </tr>
   </table>
@@ -32,11 +32,11 @@ I&#8217;ve gone back and re-edited a lot of the shots I took in Paris. As you ca
   <table>
     <tr>
       <td>
-        <a href="https://secure.flickr.com/photos/heipei/8281347853/" title="Streets of Paris by heipei, on Flickr"><img data-echo="https://farm9.staticflickr.com/8501/8281347853_642eae9dec_b.jpg" alt="Streets of Paris" /></a>
+        <a href="https://secure.flickr.com/photos/heipei/8281347853/" title="Streets of Paris by heipei, on Flickr"><img src="/images/ajax.gif" data-echo="https://farm9.staticflickr.com/8501/8281347853_642eae9dec_b.jpg" alt="Streets of Paris" /></a>
       </td>
       
       <td>
-        <a href="https://secure.flickr.com/photos/heipei/8282404146/" title="Streets of Paris by heipei, on Flickr"><img data-echo="https://farm9.staticflickr.com/8066/8282404146_b75090c726_b.jpg" alt="Streets of Paris" /></a>
+        <a href="https://secure.flickr.com/photos/heipei/8282404146/" title="Streets of Paris by heipei, on Flickr"><img src="/images/ajax.gif" data-echo="https://farm9.staticflickr.com/8066/8282404146_b75090c726_b.jpg" alt="Streets of Paris" /></a>
       </td>
     </tr>
   </table>
@@ -48,11 +48,11 @@ As much as I&#8217;m looking forward to other places (Italy in particular), I ca
   <table>
     <tr>
       <td>
-        <a href="https://secure.flickr.com/photos/heipei/7700488132/" title="Paris by heipei, on Flickr"><img data-echo="https://farm9.staticflickr.com/8012/7700488132_c778c471d6_b.jpg" alt="Paris" /></a>
+        <a href="https://secure.flickr.com/photos/heipei/7700488132/" title="Paris by heipei, on Flickr"><img src="/images/ajax.gif" data-echo="https://farm9.staticflickr.com/8012/7700488132_c778c471d6_b.jpg" alt="Paris" /></a>
       </td>
       
       <td>
-        <a href="https://secure.flickr.com/photos/heipei/7706919146/" title="Paris by heipei, on Flickr"><img data-echo="https://farm9.staticflickr.com/8142/7706919146_42a5ddd316_b.jpg" alt="Paris" /></a>
+        <a href="https://secure.flickr.com/photos/heipei/7706919146/" title="Paris by heipei, on Flickr"><img src="/images/ajax.gif" data-echo="https://farm9.staticflickr.com/8142/7706919146_42a5ddd316_b.jpg" alt="Paris" /></a>
       </td>
     </tr>
   </table>
@@ -64,11 +64,11 @@ For me, Paris was the most beautiful and interesting city I visited yet. Since I
   <table>
     <tr>
       <td>
-        <a href="https://secure.flickr.com/photos/heipei/7706922426/" title="Paris by heipei, on Flickr"><img data-echo="https://farm8.staticflickr.com/7119/7706922426_cf453880c4_b.jpg" alt="Paris" /></a>
+        <a href="https://secure.flickr.com/photos/heipei/7706922426/" title="Paris by heipei, on Flickr"><img src="/images/ajax.gif" data-echo="https://farm8.staticflickr.com/7119/7706922426_cf453880c4_b.jpg" alt="Paris" /></a>
       </td>
       
       <td>
-        <a href="https://secure.flickr.com/photos/heipei/7700483640/" title="Paris by heipei, on Flickr"><img data-echo="https://farm9.staticflickr.com/8005/7700483640_bf3d01d89c_b.jpg" alt="Paris" /></a>
+        <a href="https://secure.flickr.com/photos/heipei/7700483640/" title="Paris by heipei, on Flickr"><img src="/images/ajax.gif" data-echo="https://farm9.staticflickr.com/8005/7700483640_bf3d01d89c_b.jpg" alt="Paris" /></a>
       </td>
     </tr>
   </table>
@@ -77,5 +77,5 @@ For me, Paris was the most beautiful and interesting city I visited yet. Since I
 In terms of photography I find myself torn between different choices: When to take my X100, when to take my 60D, how to edit a particular shot when other styles would fit nicely as well. Recently I have been thinking about this blog and whether I should go with a small and relatively static landing page instead, only linking to my blog, my [flickr-account](https://secure.flickr.com/photos/heipei), [my tumblr](http://tumblr.heipei.net/), etc. I&#8217;ve also started using static blog software for the fun of it, but I&#8217;m still not convinced that these tools can replicate the user experience of WordPress for me.
 
 <div class="aligncenter">
-  <a href="https://secure.flickr.com/photos/heipei/8284773714/" title="Paris, Jardin des Tuileries by heipei, on Flickr"><img data-echo="https://farm9.staticflickr.com/8357/8284773714_685695139c_b.jpg" alt="Paris, Jardin des Tuileries" class="center" /></a>
+  <a href="https://secure.flickr.com/photos/heipei/8284773714/" title="Paris, Jardin des Tuileries by heipei, on Flickr"><img src="/images/ajax.gif" data-echo="https://farm9.staticflickr.com/8357/8284773714_685695139c_b.jpg" alt="Paris, Jardin des Tuileries" class="center" /></a>
 </div>

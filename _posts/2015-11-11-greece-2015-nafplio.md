@@ -13,30 +13,30 @@ categories:
 The Peloponnese city of Nafplio was to be our last stop on our way through Greece. We heard many great things about Nafplio both from friends as well as locals. They told us that Nafplio was one of the prettiest cities and it was often described as romantic.
 
 <div class="img aligncenter">
-  <a href="https://www.flickr.com/photos/heipei/21358209135/in/photostream" title="Nafplio, Greece"><img data-echo="https://farm1.staticflickr.com/664/21358209135_ebcd21bc1d_b.jpg" alt="Nafplio, Greece" /></a>
+  <a href="https://www.flickr.com/photos/heipei/21358209135/in/photostream" title="Nafplio, Greece"><img src="/images/ajax.gif" data-echo="https://farm1.staticflickr.com/664/21358209135_ebcd21bc1d_b.jpg" alt="Nafplio, Greece" /></a>
 </div>
 
 The old center of Nafplio is located on the tip of a bay, wedged between the harbor and some hills. As a result, the streets are narrow and steep and there are only a few places to go to by car. We weren&#8217;t completely sure about the location of our hotel, so we had to do some driving, search, Googling and cursing. Eventually we found a hotel by the right name, only to realize that it was only part of the hotel we were looking for and that the other (prettier) part of it was run by the brother of the owner, further up the hill.
 
 <div class="img aligncenter">
   <div>
-    <a href="https://www.flickr.com/photos/heipei/20737093563/in/photostream" title="Nafplio, Greece"><img data-echo="https://farm1.staticflickr.com/565/20737093563_af8ac7aa0d_b.jpg" alt="Nafplio, Greece" /></a>
+    <a href="https://www.flickr.com/photos/heipei/20737093563/in/photostream" title="Nafplio, Greece"><img src="/images/ajax.gif" data-echo="https://farm1.staticflickr.com/565/20737093563_af8ac7aa0d_b.jpg" alt="Nafplio, Greece" /></a>
   </div>
   
   <table>
     <tr>
       <td>
-        <a href="https://www.flickr.com/photos/heipei/21381214195/in/photostream" title="Nafplio, Greece"><img data-echo="https://farm1.staticflickr.com/734/21381214195_468fda9634_c.jpg" alt="Nafplio, Greece" /></a>
+        <a href="https://www.flickr.com/photos/heipei/21381214195/in/photostream" title="Nafplio, Greece"><img src="/images/ajax.gif" data-echo="https://farm1.staticflickr.com/734/21381214195_468fda9634_c.jpg" alt="Nafplio, Greece" /></a>
       </td>
       
       <td>
-        <a href="https://www.flickr.com/photos/heipei/21358209535/in/photostream" title="Nafplio, Greece"><img data-echo="https://farm6.staticflickr.com/5753/21358209535_36b51e6555_c.jpg" alt="Nafplio, Greece" /></a>
+        <a href="https://www.flickr.com/photos/heipei/21358209535/in/photostream" title="Nafplio, Greece"><img src="/images/ajax.gif" data-echo="https://farm6.staticflickr.com/5753/21358209535_36b51e6555_c.jpg" alt="Nafplio, Greece" /></a>
       </td>
     </tr>
   </table>
   
   <div>
-    <a href="https://www.flickr.com/photos/heipei/21354966196/in/photostream" title="Nafplio, Greece"><img data-echo="https://farm1.staticflickr.com/703/21354966196_14300ac2ec_b.jpg" alt="Nafplio, Greece" /></a>
+    <a href="https://www.flickr.com/photos/heipei/21354966196/in/photostream" title="Nafplio, Greece"><img src="/images/ajax.gif" data-echo="https://farm1.staticflickr.com/703/21354966196_14300ac2ec_b.jpg" alt="Nafplio, Greece" /></a>
   </div>
 </div>
 
@@ -48,11 +48,11 @@ Nafplio was the capital of Greece from 1821 until 1834, and it still radiates so
   <table>
     <tr>
       <td>
-        <a href="https://www.flickr.com/photos/heipei/21114791958/in/photostream" title="Nafplio, Greece"><img data-echo="https://farm1.staticflickr.com/588/21114791958_913b489555_c.jpg" alt="Nafplio, Greece" /></a>
+        <a href="https://www.flickr.com/photos/heipei/21114791958/in/photostream" title="Nafplio, Greece"><img src="/images/ajax.gif" data-echo="https://farm1.staticflickr.com/588/21114791958_913b489555_c.jpg" alt="Nafplio, Greece" /></a>
       </td>
       
       <td>
-        <a href="https://www.flickr.com/photos/heipei/21302671645/in/photostream" title="Nafplio, Greece"><img data-echo="https://farm6.staticflickr.com/5617/21302671645_d48c0cd705_c.jpg" alt="Nafplio, Greece" /></a>
+        <a href="https://www.flickr.com/photos/heipei/21302671645/in/photostream" title="Nafplio, Greece"><img src="/images/ajax.gif" data-echo="https://farm6.staticflickr.com/5617/21302671645_d48c0cd705_c.jpg" alt="Nafplio, Greece" /></a>
       </td>
     </tr>
   </table>
@@ -62,17 +62,17 @@ From our hotel it was only a short walk down on the opposite side of the hill to
 
 <div class="img aligncenter">
   <div>
-    <a href="https://www.flickr.com/photos/heipei/21414047745/in/photostream" title="Epidaurus, Greece"><img data-echo="https://farm6.staticflickr.com/5624/21414047745_2dd29e8c7e_b.jpg" alt="Epidaurus, Greece" /></a>
+    <a href="https://www.flickr.com/photos/heipei/21414047745/in/photostream" title="Epidaurus, Greece"><img src="/images/ajax.gif" data-echo="https://farm6.staticflickr.com/5624/21414047745_2dd29e8c7e_b.jpg" alt="Epidaurus, Greece" /></a>
   </div>
   
   <table>
     <tr>
       <td>
-        <a href="https://www.flickr.com/photos/heipei/21403162642/in/photostream" title="Epidaurus, Greece"><img data-echo="https://farm6.staticflickr.com/5672/21403162642_d3b3ed5f59_c.jpg" alt="Epidaurus, Greece" /></a>
+        <a href="https://www.flickr.com/photos/heipei/21403162642/in/photostream" title="Epidaurus, Greece"><img src="/images/ajax.gif" data-echo="https://farm6.staticflickr.com/5672/21403162642_d3b3ed5f59_c.jpg" alt="Epidaurus, Greece" /></a>
       </td>
       
       <td>
-        <a href="https://www.flickr.com/photos/heipei/21403161772/in/photostream" title="Epidaurus, Greece"><img data-echo="https://farm1.staticflickr.com/739/21403161772_c4ab49f1c8_c.jpg" alt="Epidaurus, Greece" /></a>
+        <a href="https://www.flickr.com/photos/heipei/21403161772/in/photostream" title="Epidaurus, Greece"><img src="/images/ajax.gif" data-echo="https://farm1.staticflickr.com/739/21403161772_c4ab49f1c8_c.jpg" alt="Epidaurus, Greece" /></a>
       </td>
     </tr>
   </table>
@@ -84,23 +84,23 @@ On our last day we left Nafplio to drive to Athens airport directly. The only st
 
 <div class="img aligncenter">
   <div>
-    <a href="https://www.flickr.com/photos/heipei/20865067144/in/photostream" title="Corinth, Greece"><img data-echo="https://farm6.staticflickr.com/5676/20865067144_c4dbf768c3_b.jpg" alt="Corinth, Greece" /></a>
+    <a href="https://www.flickr.com/photos/heipei/20865067144/in/photostream" title="Corinth, Greece"><img src="/images/ajax.gif" data-echo="https://farm6.staticflickr.com/5676/20865067144_c4dbf768c3_b.jpg" alt="Corinth, Greece" /></a>
   </div>
   
   <table>
     <tr>
       <td>
-        <a href="https://www.flickr.com/photos/heipei/21299977638/in/photostream" title="Corinth, Greece"><img data-echo="https://farm1.staticflickr.com/757/21299977638_7d49786e67.jpg" alt="Corinth, Greece" /></a>
+        <a href="https://www.flickr.com/photos/heipei/21299977638/in/photostream" title="Corinth, Greece"><img src="/images/ajax.gif" data-echo="https://farm1.staticflickr.com/757/21299977638_7d49786e67.jpg" alt="Corinth, Greece" /></a>
       </td>
       
       <td>
-        <a href="https://www.flickr.com/photos/heipei/20865068204/in/photostream" title="Corinth, Greece"><img data-echo="https://farm1.staticflickr.com/669/20865068204_17fa94be7c.jpg" alt="Corinth, Greece" /></a>
+        <a href="https://www.flickr.com/photos/heipei/20865068204/in/photostream" title="Corinth, Greece"><img src="/images/ajax.gif" data-echo="https://farm1.staticflickr.com/669/20865068204_17fa94be7c.jpg" alt="Corinth, Greece" /></a>
       </td>
     </tr>
   </table>
   
   <div>
-    <a href="https://www.flickr.com/photos/heipei/21487792125/in/photostream" title="Corinth, Greece"><img data-echo="https://farm1.staticflickr.com/730/21487792125_f47888f89a_b.jpg" alt="Corinth, Greece" /></a>
+    <a href="https://www.flickr.com/photos/heipei/21487792125/in/photostream" title="Corinth, Greece"><img src="/images/ajax.gif" data-echo="https://farm1.staticflickr.com/730/21487792125_f47888f89a_b.jpg" alt="Corinth, Greece" /></a>
   </div>
 </div>
 

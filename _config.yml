@@ -1,6 +1,7 @@
-gems: [jekyll-paginate]
+gems: [jekyll-paginate, jekyll-coffeescript]
 exclude: ['TODO', 'Gemfile.lock', 'Gemfile']
 url: https://heipei.net
+title: heipei - Jojo
 name: heipei
 description: Jojo
 paginate: 4

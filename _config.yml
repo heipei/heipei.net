@@ -6,3 +6,5 @@ name: heipei
 description: Jojo
 paginate: 4
 paginate_path: "/page/:num/"
+author:
+  name: Johannes Gilger

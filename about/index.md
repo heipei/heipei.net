@@ -13,4 +13,6 @@ Hi and welcome to my personal blog. By now it&#8217;s mostly photography-related
 
 As you can see, photography is one my biggest passions. I also enjoy traveling, cycling, blogging and programming. I like to obsess over web-design every now and then and usually take it out on this very blog.
 
+Check out the <a href="/archive/">archive</a> for old posts.
+
 More information to follow soon ;)

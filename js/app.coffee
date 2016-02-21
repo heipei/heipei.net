@@ -1,20 +1,48 @@
----
----
 document.addEventListener( "DOMContentLoaded", () ->
 
-  mq = window.matchMedia( "(max-width: 480px)" )
-
-  # Media query for small screen
-  if mq.matches
+  resize_flickr_images = (size="small") ->
     imgs = document.querySelectorAll("img")
     for img in imgs
-      url = img.getAttribute("data-echo")
-      if url.match("https://farm..staticflickr.com/.*_b.jpg")
-        url = url.replace("_b.jpg", ".jpg") 
-      else if url.match("https://farm..staticflickr.com/.*_c.jpg")
-        url = url.replace("_c.jpg", "_n.jpg") 
+      for attrib in ["data-echo", "src"]
+        original_url = url = img.getAttribute(attrib)
+        continue unless url?
 
-      img.setAttribute("data-echo", url)
+        # Remove width/height for all flickr images
+        if url.match("https://farm..static\.?flickr.com/.*")
+          img.removeAttribute("width")
+          img.removeAttribute("height")
+
+        # Only downsize images if they haven't been loaded yet (data-echo)
+        if size is "small" and attrib is "data-echo"
+          if url.match("https://farm..static\.?flickr.com/.*_b.jpg")
+            url = url.replace("_b.jpg", ".jpg") 
+          else if url.match("https://farm..static\.?flickr.com/.*_c.jpg")
+            url = url.replace("_c.jpg", "_n.jpg") 
+        
+        # Always upsize flickr images
+        if size is "large"
+          if url.match("https://farm..static\.?flickr.com/.*_n.jpg")
+            url = url.replace("_n.jpg", "_c.jpg") 
+          else if url.match("https://farm..static\.?flickr.com/.*_m.jpg")
+            url = url.replace("_m.jpg", "_n.jpg") 
+          else if url.match("https://farm..static\.?flickr.com/.*/[a-f0-9]{3,}_[a-f0-9]{3,}.jpg")
+            url = url.replace(".jpg", "_b.jpg") 
+
+        if original_url isnt url
+          console.log "Replaced #{img.getAttribute(attrib)} with #{url}"
+          img.setAttribute(attrib, url)
+
+  WidthChange = (mq) ->
+    if mq.matches
+      resize_flickr_images("small")
+    else
+      resize_flickr_images("large")
+    return
+
+  if matchMedia
+    mq = window.matchMedia('(max-width: 480px)')
+    mq.addListener WidthChange
+    WidthChange mq
 
   # Init echo.js lazy loading
   echo.init
@@ -22,14 +50,4 @@ document.addEventListener( "DOMContentLoaded", () ->
       throttle: 150,
       unload: false
 
-#	# Load Google Fonts async
-#	window.WebFontConfig =
-#		google:
-#			families: ['Raleway:300:latin', 'Titillium+Web:latin', 'Open+Sans:400,300:latin']
-#	wf = document.createElement('script')
-#	wf.src = """#{if document.location.protocol is 'https' then 'https' else 'http'}://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js"""
-#	wf.type = 'text/javascript'
-#	wf.async = 'true'
-#	s = document.getElementsByTagName('script')[0]
-#	s.parentNode.insertBefore wf, s
 )

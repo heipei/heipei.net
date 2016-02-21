@@ -11,7 +11,7 @@ categories:
   - Fotos
 ---
 <div class="aligncenter">
-  <a href="https://www.flickr.com/photos/heipei/10066477825" title="Wanderung Vossenack by Johannes Gilger, on Flickr"><img src="/images/ajax.gif" data-echo="https://farm4.staticflickr.com/3807/10066477825_b603b017ca_b.jpg" alt="Wanderung Vossenack" /></a>
+  <a href="https://www.flickr.com/photos/heipei/10066477825" title="Wanderung Vossenack by Johannes Gilger, on Flickr"><img src="https://farm4.staticflickr.com/3807/10066477825_b603b017ca_b.jpg" alt="Wanderung Vossenack" /></a>
 </div>
 
 I finally found time to rewrite a large chunk of my old and ever-evolving WordPress template. My goal was to strip as much meta-information and meaningless links from the site as possible. With the space gained by removing things like the sidebar, or the arbitrary fixed width of the content container I was hoping to put more focus on the main content of this blog: My photos.

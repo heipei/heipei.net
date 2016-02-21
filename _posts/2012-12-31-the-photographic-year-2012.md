@@ -21,15 +21,15 @@ I started the year by upgrading my EOS 400D with a shiny new EOS 60D ([Blog-Entr
   <table>
     <tr>
       <td>
-        <a href="https://secure.flickr.com/photos/heipei/6709831633/" title="Spaziergang Lousberg by heipei, on Flickr"><img src="/images/ajax.gif" data-echo="https://farm8.staticflickr.com/7165/6709831633_2144b0795f_z.jpg" alt="Spaziergang Lousberg" /></a>
+        <a href="https://secure.flickr.com/photos/heipei/6709831633/" title="Spaziergang Lousberg by heipei, on Flickr"><img src="https://farm8.staticflickr.com/7165/6709831633_2144b0795f_z.jpg" alt="Spaziergang Lousberg" /></a>
       </td>
       
       <td>
-        <a href="https://secure.flickr.com/photos/heipei/6709830783/" title="Spaziergang Lousberg by heipei, on Flickr"><img src="/images/ajax.gif" data-echo="https://farm8.staticflickr.com/7172/6709830783_2dceb1f928_z.jpg" alt="Spaziergang Lousberg" /></a>
+        <a href="https://secure.flickr.com/photos/heipei/6709830783/" title="Spaziergang Lousberg by heipei, on Flickr"><img src="https://farm8.staticflickr.com/7172/6709830783_2dceb1f928_z.jpg" alt="Spaziergang Lousberg" /></a>
       </td>
       
       <td>
-        <a href="https://secure.flickr.com/photos/heipei/6700507037/" title="Katrins Abschlussfeier by heipei, on Flickr"><img src="/images/ajax.gif" data-echo="https://farm8.staticflickr.com/7156/6700507037_e9280ef7e7_z.jpg" alt="Katrins Abschlussfeier" /></a>
+        <a href="https://secure.flickr.com/photos/heipei/6700507037/" title="Katrins Abschlussfeier by heipei, on Flickr"><img src="https://farm8.staticflickr.com/7156/6700507037_e9280ef7e7_z.jpg" alt="Katrins Abschlussfeier" /></a>
       </td>
     </tr>
   </table>
@@ -45,21 +45,21 @@ I shot a few birthdays in February. Additionally, I took my 60D out in the field
   <table>
     <tr>
       <td>
-        <a href="https://secure.flickr.com/photos/heipei/6917852451/" title="Winterwonderland in Monschau by heipei, on Flickr"><img src="/images/ajax.gif" data-echo="https://farm8.staticflickr.com/7037/6917852451_18c1fb4329_z.jpg" alt="Winterwonderland in Monschau" /></a>
+        <a href="https://secure.flickr.com/photos/heipei/6917852451/" title="Winterwonderland in Monschau by heipei, on Flickr"><img src="https://farm8.staticflickr.com/7037/6917852451_18c1fb4329_z.jpg" alt="Winterwonderland in Monschau" /></a>
       </td>
       
       <td>
-        <a href="https://secure.flickr.com/photos/heipei/6917848225/" title="Winterwonderland in Monschau by heipei, on Flickr"><img src="/images/ajax.gif" data-echo="https://farm8.staticflickr.com/7059/6917848225_83cd122435_z.jpg" alt="Winterwonderland in Monschau" /></a>
+        <a href="https://secure.flickr.com/photos/heipei/6917848225/" title="Winterwonderland in Monschau by heipei, on Flickr"><img src="https://farm8.staticflickr.com/7059/6917848225_83cd122435_z.jpg" alt="Winterwonderland in Monschau" /></a>
       </td>
       
       <td>
-        <a href="https://secure.flickr.com/photos/heipei/6917839853/" title="Winterwonderland in Monschau by heipei, on Flickr"><img src="/images/ajax.gif" data-echo="https://farm8.staticflickr.com/7036/6917839853_530ef66923_z.jpg" alt="Winterwonderland in Monschau" /></a>
+        <a href="https://secure.flickr.com/photos/heipei/6917839853/" title="Winterwonderland in Monschau by heipei, on Flickr"><img src="https://farm8.staticflickr.com/7036/6917839853_530ef66923_z.jpg" alt="Winterwonderland in Monschau" /></a>
       </td>
     </tr>
   </table>
   
   <div>
-    <a href="https://secure.flickr.com/photos/heipei/6917840609/" title="Winterwonderland in Monschau by heipei, on Flickr"><img src="/images/ajax.gif" data-echo="https://farm8.staticflickr.com/7178/6917840609_1d318ff6dc_b.jpg" alt="Winterwonderland in Monschau" /></a>
+    <a href="https://secure.flickr.com/photos/heipei/6917840609/" title="Winterwonderland in Monschau by heipei, on Flickr"><img src="https://farm8.staticflickr.com/7178/6917840609_1d318ff6dc_b.jpg" alt="Winterwonderland in Monschau" /></a>
   </div>
 </div>
 
@@ -91,17 +91,17 @@ On our annual may-day hike (think beer + dense forest) I didn&#8217;t take along
   <table>
     <tr>
       <td>
-        <a href="https://secure.flickr.com/photos/heipei/7149294593/" title="X100 by heipei, on Flickr"><img src="/images/ajax.gif" data-echo="https://farm8.staticflickr.com/7209/7149294593_1474e2a61a_z.jpg" alt="X100" /></a>
+        <a href="https://secure.flickr.com/photos/heipei/7149294593/" title="X100 by heipei, on Flickr"><img src="https://farm8.staticflickr.com/7209/7149294593_1474e2a61a_z.jpg" alt="X100" /></a>
       </td>
       
       <td>
-        <a href="https://secure.flickr.com/photos/heipei/7148227213/" title="Self-portrait by heipei, on Flickr"><img src="/images/ajax.gif" data-echo="https://farm9.staticflickr.com/8144/7148227213_bf536f48fb_z.jpg" alt="Self-portrait" /></a>
+        <a href="https://secure.flickr.com/photos/heipei/7148227213/" title="Self-portrait by heipei, on Flickr"><img src="https://farm9.staticflickr.com/8144/7148227213_bf536f48fb_z.jpg" alt="Self-portrait" /></a>
       </td>
     </tr>
   </table>
   
   <div>
-    <a href="https://secure.flickr.com/photos/heipei/7160379276/" title="Construction site by heipei, on Flickr"><img src="/images/ajax.gif" data-echo="https://farm8.staticflickr.com/7088/7160379276_0413ec422c_b.jpg" alt="Construction site" /></a>
+    <a href="https://secure.flickr.com/photos/heipei/7160379276/" title="Construction site by heipei, on Flickr"><img src="https://farm8.staticflickr.com/7088/7160379276_0413ec422c_b.jpg" alt="Construction site" /></a>
   </div>
 </div>
 
@@ -115,17 +115,17 @@ I shot about a thousand photos that month, and all of them with my X100. Part of
   <table>
     <tr>
       <td>
-        <a href="https://secure.flickr.com/photos/heipei/8321836662/" title="Wedding in Aachen by heipei, on Flickr"><img src="/images/ajax.gif" data-echo="https://farm9.staticflickr.com/8079/8321836662_7131012484_z.jpg" alt="Wedding in Aachen" /></a>
+        <a href="https://secure.flickr.com/photos/heipei/8321836662/" title="Wedding in Aachen by heipei, on Flickr"><img src="https://farm9.staticflickr.com/8079/8321836662_7131012484_z.jpg" alt="Wedding in Aachen" /></a>
       </td>
       
       <td>
-        <a href="https://secure.flickr.com/photos/heipei/8321836028/" title="Wedding in Aachen by heipei, on Flickr"><img src="/images/ajax.gif" data-echo="https://farm9.staticflickr.com/8211/8321836028_061c30ede7_z.jpg" alt="Wedding in Aachen" /></a>
+        <a href="https://secure.flickr.com/photos/heipei/8321836028/" title="Wedding in Aachen by heipei, on Flickr"><img src="https://farm9.staticflickr.com/8211/8321836028_061c30ede7_z.jpg" alt="Wedding in Aachen" /></a>
       </td>
     </tr>
   </table>
   
   <div>
-    <a href="https://secure.flickr.com/photos/heipei/8321836320/" title="Wedding in Aachen by heipei, on Flickr"><img src="/images/ajax.gif" data-echo="https://farm9.staticflickr.com/8223/8321836320_74530338b7_b.jpg" alt="Wedding in Aachen" /></a>
+    <a href="https://secure.flickr.com/photos/heipei/8321836320/" title="Wedding in Aachen by heipei, on Flickr"><img src="https://farm9.staticflickr.com/8223/8321836320_74530338b7_b.jpg" alt="Wedding in Aachen" /></a>
   </div>
 </div>
 
@@ -139,21 +139,21 @@ Once again, the X100 was the only camera I used this month. I was in a TV studio
   <table>
     <tr>
       <td>
-        <a href="https://secure.flickr.com/photos/heipei/8299659997/" title="Paris, Tour Eiffel by heipei, on Flickr"><img src="/images/ajax.gif" data-echo="https://farm9.staticflickr.com/8504/8299659997_1500f2dc8d_z.jpg" alt="Paris, Tour Eiffel" /></a>
+        <a href="https://secure.flickr.com/photos/heipei/8299659997/" title="Paris, Tour Eiffel by heipei, on Flickr"><img src="https://farm9.staticflickr.com/8504/8299659997_1500f2dc8d_z.jpg" alt="Paris, Tour Eiffel" /></a>
       </td>
       
       <td>
-        <a href="https://secure.flickr.com/photos/heipei/8290952045/" title="Streets of Paris by heipei, on Flickr"><img src="/images/ajax.gif" data-echo="https://farm9.staticflickr.com/8216/8290952045_3d41ce22a2_z.jpg" alt="Streets of Paris" /></a>
+        <a href="https://secure.flickr.com/photos/heipei/8290952045/" title="Streets of Paris by heipei, on Flickr"><img src="https://farm9.staticflickr.com/8216/8290952045_3d41ce22a2_z.jpg" alt="Streets of Paris" /></a>
       </td>
       
       <td>
-        <a href="https://secure.flickr.com/photos/heipei/7802916094/" title="Paris by heipei, on Flickr"><img src="/images/ajax.gif" data-echo="https://farm9.staticflickr.com/8303/7802916094_b8b0e38e02_z.jpg" alt="Paris" /></a>
+        <a href="https://secure.flickr.com/photos/heipei/7802916094/" title="Paris by heipei, on Flickr"><img src="https://farm9.staticflickr.com/8303/7802916094_b8b0e38e02_z.jpg" alt="Paris" /></a>
       </td>
     </tr>
   </table>
   
   <div>
-    <a href="https://secure.flickr.com/photos/heipei/7716165768/" title="Paris by heipei, on Flickr"><img src="/images/ajax.gif" data-echo="https://farm9.staticflickr.com/8293/7716165768_ac6eae6893_b.jpg" alt="Paris" /></a>
+    <a href="https://secure.flickr.com/photos/heipei/7716165768/" title="Paris by heipei, on Flickr"><img src="https://farm9.staticflickr.com/8293/7716165768_ac6eae6893_b.jpg" alt="Paris" /></a>
   </div>
 </div>
 
@@ -167,15 +167,15 @@ Relatively uneventful. We rode through Aachen on our bikes and I took some nice 
   <table>
     <tr>
       <td>
-        <a href="https://secure.flickr.com/photos/heipei/7900758392/" title="Aachen, Rathaus by heipei, on Flickr"><img src="/images/ajax.gif" data-echo="https://farm9.staticflickr.com/8450/7900758392_9b66e75d67_z.jpg" alt="Aachen, Rathaus" /></a>
+        <a href="https://secure.flickr.com/photos/heipei/7900758392/" title="Aachen, Rathaus by heipei, on Flickr"><img src="https://farm9.staticflickr.com/8450/7900758392_9b66e75d67_z.jpg" alt="Aachen, Rathaus" /></a>
       </td>
       
       <td>
-        <a href="https://secure.flickr.com/photos/heipei/7882232936/" title="Aachen, Rathaus by heipei, on Flickr"><img src="/images/ajax.gif" data-echo="https://farm9.staticflickr.com/8430/7882232936_bb18341a7e_z.jpg" alt="Aachen, Rathaus" /></a>
+        <a href="https://secure.flickr.com/photos/heipei/7882232936/" title="Aachen, Rathaus by heipei, on Flickr"><img src="https://farm9.staticflickr.com/8430/7882232936_bb18341a7e_z.jpg" alt="Aachen, Rathaus" /></a>
       </td>
       
       <td>
-        <a href="https://secure.flickr.com/photos/heipei/7882234042/" title="Aachen, Türelüre-Lißje by heipei, on Flickr"><img src="/images/ajax.gif" data-echo="https://farm9.staticflickr.com/8424/7882234042_c826cdfefc_z.jpg" alt="Aachen, Türelüre-Lißje" /></a>
+        <a href="https://secure.flickr.com/photos/heipei/7882234042/" title="Aachen, Türelüre-Lißje by heipei, on Flickr"><img src="https://farm9.staticflickr.com/8424/7882234042_c826cdfefc_z.jpg" alt="Aachen, Türelüre-Lißje" /></a>
       </td>
     </tr>
   </table>
@@ -188,7 +188,7 @@ Relatively uneventful. We rode through Aachen on our bikes and I took some nice 
 Just one event in September: [Our Canada vacation!](http://holiday.heipei.net/) We flew to Vancouver (on the west coast) and drove around in our usual fashion, trying to get a look at everything at the expense of sore feet. I thought long and hard about which camera to take, and in the end I [brought along my 60D and my X100](https://heipei.net/2012/10/03/x100-vs-eos-60d-the-inevitable-showdown/) ;) This was the only sane choice, and I didn&#8217;t mind the weight at all. When hiking on rough trails and trying to get shots of the landscape, the 60D would be my first choice. Photographing the plate of sushi in front of me at the restaurant: Nice and inconspicuous: The X100.
 
 <div class="img aligncenter">
-  <a href="https://secure.flickr.com/photos/heipei/8002139612/" title="Day 10: Lake Louise & Moraine Lake by heipei, on Flickr"><img src="/images/ajax.gif" data-echo="https://farm9.staticflickr.com/8029/8002139612_c402f91d63_b.jpg" alt="Day 10: Lake Louise & Moraine Lake" /></a>
+  <a href="https://secure.flickr.com/photos/heipei/8002139612/" title="Day 10: Lake Louise & Moraine Lake by heipei, on Flickr"><img src="https://farm9.staticflickr.com/8029/8002139612_c402f91d63_b.jpg" alt="Day 10: Lake Louise & Moraine Lake" /></a>
 </div>
 
 <small>Canada</small>
@@ -205,11 +205,11 @@ Not that much except a very nice hike through the Hohes Venn near Malmedy (Belgi
   <table>
     <tr>
       <td>
-        <a href="https://secure.flickr.com/photos/heipei/8245643344/" title="Vennwanderung bei Malmedy by heipei, on Flickr"><img src="/images/ajax.gif" data-echo="https://farm9.staticflickr.com/8197/8245643344_22824b83b4_z.jpg" alt="Vennwanderung bei Malmedy" /></a>
+        <a href="https://secure.flickr.com/photos/heipei/8245643344/" title="Vennwanderung bei Malmedy by heipei, on Flickr"><img src="https://farm9.staticflickr.com/8197/8245643344_22824b83b4_z.jpg" alt="Vennwanderung bei Malmedy" /></a>
       </td>
       
       <td>
-        <a href="https://secure.flickr.com/photos/heipei/8230622348/" title="Vennwanderung bei Malmedy by heipei, on Flickr"><img src="/images/ajax.gif" data-echo="https://farm9.staticflickr.com/8060/8230622348_048a023f2f_z.jpg" alt="Vennwanderung bei Malmedy" /></a>
+        <a href="https://secure.flickr.com/photos/heipei/8230622348/" title="Vennwanderung bei Malmedy by heipei, on Flickr"><img src="https://farm9.staticflickr.com/8060/8230622348_048a023f2f_z.jpg" alt="Vennwanderung bei Malmedy" /></a>
       </td>
     </tr>
   </table>
@@ -224,7 +224,7 @@ I was on two private parties where I wasn&#8217;t sure how much people would min
 When Christmas came I was so wired camera-wise that I brought along my X100, my 60D, my three prime lenses and flash, and I managed to use all of these! Christmas (and the year 2012) was truly saved.
 
 <div class="img aligncenter">
-  <a href="https://secure.flickr.com/photos/heipei/8325473264/" title="Zeche Zollverein by heipei, on Flickr"><img src="/images/ajax.gif" data-echo="https://farm9.staticflickr.com/8082/8325473264_252cc424d5_b.jpg" alt="Zeche Zollverein" /></a>
+  <a href="https://secure.flickr.com/photos/heipei/8325473264/" title="Zeche Zollverein by heipei, on Flickr"><img src="https://farm9.staticflickr.com/8082/8325473264_252cc424d5_b.jpg" alt="Zeche Zollverein" /></a>
 </div>
 
 <small>Katrin, Zeche Zollverein, Essen</small>

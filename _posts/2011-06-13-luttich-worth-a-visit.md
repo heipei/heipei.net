@@ -11,7 +11,7 @@ categories:
   - Unterwegs
 ---
 <p class="hyphenate">
-  <a href="https://secure.flickr.com/photos/heipei/5824005845/" title="Sonntag in Lüttich by heipei, on Flickr"><img src="/images/ajax.gif" data-echo="https://farm4.static.flickr.com/3482/5824005845_be55ec3126_m.jpg" width="160" height="240" alt="Sonntag in Lüttich" class="alignleft" /></a>Yesterday, Katrin and me visited Lüttich (Liège) in Belgium. With 200.000 habitants, it is one of the closest big cities to Aachen, a little more than half an hour drive from us. Lüttich&#8217;s history is rooted in coal mining and a large steel industry, something which still shows today, underlined by the fact that the city is home to one of the largest inland ports in continental Europe. The city center of Lüttich is a mixture of many small, old and cute brick houses, sometimes even timber framed. In between, huge and incredibly ugly apartment buildings have been constructed in the recent past, some of which posses a certain soviet flair. In general, a lot of the city center is convoluted, dark and downright filthy, but you can clearly see the efforts undertaken to improve the appearance of the inner city by incrementally removing some of the most appalling sights.
+  <a href="https://secure.flickr.com/photos/heipei/5824005845/" title="Sonntag in Lüttich by heipei, on Flickr"><img src="https://farm4.static.flickr.com/3482/5824005845_be55ec3126_m.jpg" width="160" height="240" alt="Sonntag in Lüttich" class="alignleft" /></a>Yesterday, Katrin and me visited Lüttich (Liège) in Belgium. With 200.000 habitants, it is one of the closest big cities to Aachen, a little more than half an hour drive from us. Lüttich&#8217;s history is rooted in coal mining and a large steel industry, something which still shows today, underlined by the fact that the city is home to one of the largest inland ports in continental Europe. The city center of Lüttich is a mixture of many small, old and cute brick houses, sometimes even timber framed. In between, huge and incredibly ugly apartment buildings have been constructed in the recent past, some of which posses a certain soviet flair. In general, a lot of the city center is convoluted, dark and downright filthy, but you can clearly see the efforts undertaken to improve the appearance of the inner city by incrementally removing some of the most appalling sights.
 </p>
 
 <p class="hyphenate">
@@ -19,7 +19,7 @@ categories:
 </p>
 
 <div class="img aligncenter">
-<img src="/images/ajax.gif" data-echo="https://farm4.static.flickr.com/3367/5824007367_41b15a3802_b.jpg" alt="Sonntag in Lüttich" class="aligncenter" />
+<img src="https://farm4.static.flickr.com/3367/5824007367_41b15a3802_b.jpg" alt="Sonntag in Lüttich" class="aligncenter" />
 </div>
 
 <p class="hyphenate">

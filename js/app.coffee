@@ -8,28 +8,27 @@ document.addEventListener( "DOMContentLoaded", () ->
         continue unless url?
 
         # Remove width/height for all flickr images
-        if url.match("https://farm..static\.?flickr.com/.*")
+        if url.match("https://.*\.static\.?flickr.com/.*")
           img.removeAttribute("width")
           img.removeAttribute("height")
 
         # Only downsize images if they haven't been loaded yet (data-echo)
         if size is "small" and attrib is "data-echo"
-          if url.match("https://farm..static\.?flickr.com/.*_b.jpg")
+          if url.match("https://.*\.static\.?flickr.com/.*_b.jpg")
             url = url.replace("_b.jpg", ".jpg") 
-          else if url.match("https://farm..static\.?flickr.com/.*_c.jpg")
+          else if url.match("https://.*\.static\.?flickr.com/.*_c.jpg")
             url = url.replace("_c.jpg", "_n.jpg") 
         
         # Always upsize flickr images
         if size is "large"
-          if url.match("https://farm..static\.?flickr.com/.*_n.jpg")
+          if url.match("https://.*\.static\.?flickr.com/.*_n.jpg")
             url = url.replace("_n.jpg", "_c.jpg") 
-          else if url.match("https://farm..static\.?flickr.com/.*_m.jpg")
+          else if url.match("https://.*\.static\.?flickr.com/.*_m.jpg")
             url = url.replace("_m.jpg", "_n.jpg") 
-          else if url.match("https://farm..static\.?flickr.com/.*/[a-f0-9]{3,}_[a-f0-9]{3,}.jpg")
+          else if url.match("https://.*\.static\.?flickr.com/.*/[a-f0-9]{3,}_[a-f0-9]{3,}.jpg")
             url = url.replace(".jpg", "_b.jpg") 
 
         if original_url isnt url
-          console.log "Replaced #{img.getAttribute(attrib)} with #{url}"
           img.setAttribute(attrib, url)
 
   WidthChange = (mq) ->

@@ -1,5 +1,7 @@
-- Replace data-echo with loading image
-- Write London blog post
+- Native lazy-load and responsive images
+- New flickr cdn destinations?
+- Archive in top menu
+
 - https://blog.ycombinator.com/how-to-use-responsive-images/
 - https://www.smashingmagazine.com/2017/04/content-delivery-network-optimize-images/
 - https://github.com/hiddentao/wp-flickr-embed/issues/15

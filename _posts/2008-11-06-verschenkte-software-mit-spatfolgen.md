@@ -12,7 +12,7 @@ categories:
   - Geekstuff
   - Uni
 ---
-<img data-echo="/weblog/microsoft_indoctrination.png" alt="Bullshit" class="alignleft" />Normalerweise lasse ich solche Dinge an mir vorbeigehen und bringe erst Recht nicht den Aufwand auf darüber zu bloggen. Nachdem ich aber [heute bei Spiegel Online](http://www.spiegel.de/netzwelt/web/0,1518,588857,00.html) schon wieder etwas lesen musste was von vielen Stellen so oder ähnlich berichtet wird und auch in den Köpfen vieler Leute festsitzt, habe ich mich entschlossen mal meinen Senf dazu abgegeben.
+<img src="/weblog/microsoft_indoctrination.png" alt="Bullshit" class="alignleft" />Normalerweise lasse ich solche Dinge an mir vorbeigehen und bringe erst Recht nicht den Aufwand auf darüber zu bloggen. Nachdem ich aber [heute bei Spiegel Online](http://www.spiegel.de/netzwelt/web/0,1518,588857,00.html) schon wieder etwas lesen musste was von vielen Stellen so oder ähnlich berichtet wird und auch in den Köpfen vieler Leute festsitzt, habe ich mich entschlossen mal meinen Senf dazu abgegeben.
   
 Von Anfang an sollte klar sein dass ich Microsoft-Software nicht besonders mag. Es gibt wohl Leute die ständig Tabellenkalkulationen machen müssen und andere die ganz besonders DirectX-Spiele mögen, aber für beides gibt es halbwegs vernünftige Alternativen meiner Meinung nach. Und als Informatik-Student ist es mir besonders zuwider sich genauer mit einem System auseinanderzusetzen das nicht nur technisch minderwertiger als andere Betriebssysteme sondern auch noch komplett verschlossen ist, so dass man weder aus den Fehlern Anderer (der Microsoft-Programmierer) lernen noch sie verbessern kann.
   

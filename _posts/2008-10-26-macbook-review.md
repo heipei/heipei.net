@@ -12,7 +12,7 @@ categories:
   - Apple
   - Geekstuff
 ---
-[<img data-echo="https://farm3.static.flickr.com/2110/2965348278_18fb0a9cdf.jpg" width="500" height="334" alt="Two of a kind" class="aligncenter" />](https://secure.flickr.com/photos/heipei/2965348278/ "Two of a kind by heipei, on Flickr")
+[<img src="https://farm3.static.flickr.com/2110/2965348278_18fb0a9cdf.jpg" width="500" height="334" alt="Two of a kind" class="aligncenter" />](https://secure.flickr.com/photos/heipei/2965348278/ "Two of a kind by heipei, on Flickr")
   
 In a shameless attempt to attract traffic I&#8217;m gonna do a short review of my new Macbook ;). I had been playing with the thought of buying a new laptop for a while now, and was almost certain it would be the Dell XPS 1330, since Apple didn&#8217;t really offer anything for me at that time (the Macbook Pros were too big and expensive, the Macbook Air was even more expensive and the Macbooks were made of plastic, which I really didn&#8217;t like). Right on time Apple released their new model, which is what I&#8217;m typing on right now ;)<!--more-->
 
@@ -26,17 +26,17 @@ See, this is nice, I can say &#8220;compared to my G4 1.33Ghz I had been using b
   
 Having a really really fast hard-drive is noticeable as well, deleting files doesn&#8217;t take forever and I&#8217;m able to really max out the 100mbit link. The DVD-drive looks good, the sound when waking up the laptop from sleep is much more quiet, as is the whole drive when watching a DVD.
   
-[<img data-echo="https://farm4.static.flickr.com/3197/2964508303_16bb789dd6.jpg" width="500" height="334" alt="Two of a kind" class="aligncenter" />](https://secure.flickr.com/photos/heipei/2964508303/ "Two of a kind by heipei, on Flickr")
+[<img src="https://farm4.static.flickr.com/3197/2964508303_16bb789dd6.jpg" width="500" height="334" alt="Two of a kind" class="aligncenter" />](https://secure.flickr.com/photos/heipei/2964508303/ "Two of a kind by heipei, on Flickr")
   
 **Looks and feel**
   
-[<img data-echo="https://farm4.static.flickr.com/3241/2965349500_ab0e1ca87e_m.jpg" width="240" height="160" alt="Two of a kind" class="alignleft" />](https://secure.flickr.com/photos/heipei/2965349500/ "Two of a kind by heipei, on Flickr")Although I would have preferred another 12&#8243; model from Apple, this kind of 13&#8243; is still ok. The footprint is not that much bigger than my old Powerbook, and the Macbook is thinner (<1cm thinner), and about 200g lighter than the Powerbook.
+[<img src="https://farm4.static.flickr.com/3241/2965349500_ab0e1ca87e_m.jpg" width="240" height="160" alt="Two of a kind" class="alignleft" />](https://secure.flickr.com/photos/heipei/2965349500/ "Two of a kind by heipei, on Flickr")Although I would have preferred another 12&#8243; model from Apple, this kind of 13&#8243; is still ok. The footprint is not that much bigger than my old Powerbook, and the Macbook is thinner (<1cm thinner), and about 200g lighter than the Powerbook.
   
 The nice thing is that when closed, the new Macbook looks exactly like the bigger brother of the Powerbook. A few details have been improved. The screen closes like a magnet, snapping into place (like the previous Macbook), the sleep light is small and coupled to the ambient light sensor (good for sleeping next to it), and the edges are rounded below and above the Macbook, making it easy to grab it from a desk.
   
 The Unibody looks nice and feels strong enough (I usually carry my laptop with one hand grabbing the spot right of the trackpad when it is open). The edges may feel a little sharp, but that depends on how fat your arms are and if you type a lot ;).
   
-The Trackpad is just huge, bigger than my old trackpad and it&#8217;s mouse-button combined. The fact that it&#8217;s missing the actual button is absolutely no problem, you can click the whole pad or adopt the habit of just tapping the trackpad (two-finger-tap is a right-click, awesome).[<img data-echo="https://farm4.static.flickr.com/3187/2964509829_30cb15d5b4_m.jpg" width="240" height="160" alt="Two of a kind" class="alignright" />](https://secure.flickr.com/photos/heipei/2964509829/ "Two of a kind by heipei, on Flickr")
+The Trackpad is just huge, bigger than my old trackpad and it&#8217;s mouse-button combined. The fact that it&#8217;s missing the actual button is absolutely no problem, you can click the whole pad or adopt the habit of just tapping the trackpad (two-finger-tap is a right-click, awesome).[<img src="https://farm4.static.flickr.com/3187/2964509829_30cb15d5b4_m.jpg" width="240" height="160" alt="Two of a kind" class="alignright" />](https://secure.flickr.com/photos/heipei/2964509829/ "Two of a kind by heipei, on Flickr")
   
 At first I disliked the look of the keyboard, with its black color and the gaps between the keys, but after a few hours I didn&#8217;t notice any difference, and the touch and sound of the keyboard is nice and quiet (expect the f-ing spacebar).
   
@@ -50,7 +50,7 @@ But enough of explaining my reasons. Mac OS 10.5 (Leopard) is a nice improvement
   
 Having a speedy machine now I decided to install Quicksilver, which takes the pain out of many things and makes up for missing functionality of other programs. I use it to launch apps and to browse my del.icio.us bookmarks for example.
   
-[<img data-echo="https://farm4.static.flickr.com/3021/2975303604_b68f11a162.jpg" width="500" height="334" alt="Back to back" class="aligncenter" />](https://secure.flickr.com/photos/heipei/2975303604/ "Back to back by heipei, on Flickr")
+[<img src="https://farm4.static.flickr.com/3021/2975303604_b68f11a162.jpg" width="500" height="334" alt="Back to back" class="aligncenter" />](https://secure.flickr.com/photos/heipei/2975303604/ "Back to back by heipei, on Flickr")
   
 **Conclusion**
   

@@ -11,7 +11,7 @@ categories:
   - Geekstuff
   - git
 ---
-<img data-echo="/weblog/gitx-about.png" alt="GitX" class="alignleft" />A while back [I wrote about having the output of &#8220;git describe&#8221; as your version-string](https://heipei.net/2009/02/23/xcode-git-describe-in-your-infoplist/) in your Mac-OS app, only to discover that this doesn&#8217;t work that well since the string in the Info.plist is supposed to be an constantly increasing number of the form x.y.z.zzzz, which doesn&#8217;t really work with the SHAs git gives you. But since I really wanted that feature I kept searching and found a solution which seems to work pretty well and doesn&#8217;t interfere with the version-string.
+<img src="/weblog/gitx-about.png" alt="GitX" class="alignleft" />A while back [I wrote about having the output of &#8220;git describe&#8221; as your version-string](https://heipei.net/2009/02/23/xcode-git-describe-in-your-infoplist/) in your Mac-OS app, only to discover that this doesn&#8217;t work that well since the string in the Info.plist is supposed to be an constantly increasing number of the form x.y.z.zzzz, which doesn&#8217;t really work with the SHAs git gives you. But since I really wanted that feature I kept searching and found a solution which seems to work pretty well and doesn&#8217;t interfere with the version-string.
 
 **Introducing a new key to Info.plist**
   
@@ -27,7 +27,7 @@ touch Info.plist`If that doesn&#8217;t work you might need to include some PATH 
 
 **Info.plist preprocessing**
   
-Now you can preprocess the Info.plist when building your app, using the revision-file as a header. This means that your GIT_VERSION string will be replaced. Edit your Build-Settings like this:<img data-echo="/weblog/gitx-info-plist-prep.png" alt="Info.plist preprocessing using git describe" class="aligncenter" />
+Now you can preprocess the Info.plist when building your app, using the revision-file as a header. This means that your GIT_VERSION string will be replaced. Edit your Build-Settings like this:<img src="/weblog/gitx-info-plist-prep.png" alt="Info.plist preprocessing using git describe" class="aligncenter" />
   
 **Using the string in the About-window**
   

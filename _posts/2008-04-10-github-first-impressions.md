@@ -11,13 +11,13 @@ categories:
   - git
   - Linux
 ---
-[<img data-echo="/weblog/github.png" alt="GitHub" class="alignleft" />](http://github.com)Just as I wanted to start writing this article I noticed that [github](http://github.com) is no longer beta. So, you might as well just go there and try it for yourself.
+[<img src="/weblog/github.png" alt="GitHub" class="alignleft" />](http://github.com)Just as I wanted to start writing this article I noticed that [github](http://github.com) is no longer beta. So, you might as well just go there and try it for yourself.
   
 Now, about github. github is a public git-hosting-site. Put short, it&#8217;s like [repo.or.cz](http://repo.or.cz/), just with a shiny interface and a few special features. To be honest, I am not the perfect candidate for a service like this, since I don&#8217;t have any public repositories, I don&#8217;t know any people I&#8217;d like to cooperate with and I have my own account on a server where I run my private git repos. Also I often react allergic when I see something that already looks like another one of those Web2.0-mint-colors-big-font websites that offer some kind of paid plans just so that you can have a textbox in your webbrowser which others can edit too&#8230;
   
 Since I spent way too much time writing full text in my last article I&#8217;m just gonna do some lists now :P
   
-<img data-echo="/weblog/github-test.png" alt="github" class="aligncenter" />
+<img src="/weblog/github-test.png" alt="github" class="aligncenter" />
 
 **The good**
 

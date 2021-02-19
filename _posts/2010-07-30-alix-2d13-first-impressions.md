@@ -12,11 +12,11 @@ categories:
   - Gentoo
   - Linux
 ---
-[<img data-echo="https://farm5.static.flickr.com/4154/4842861201_eaa6258442.jpg" width="500" height="334" alt="ALIX 2D13" class="aligncenter" />](https://secure.flickr.com/photos/heipei/4842861201/ "ALIX 2D13 by heipei, on Flickr")I desperately needed a new toy, and found the perfect match with the [ALIX 2D13](http://pcengines.ch/alix2d13.htm) board from Swiss manufacturer [PCEngines](http://pcengines.ch/index.htm). I&#8217;ve had [good experiences with the WRAP-board more than four years ago](https://heipei.net/2006/03/09/wireless-router-application-platform-wrap/), so I knew about the quality of their products. This post should serve as a quick introduction and point out some caveats if you want to setup and use an ALIX 2D13.
+[<img src="https://farm5.static.flickr.com/4154/4842861201_eaa6258442.jpg" width="500" height="334" alt="ALIX 2D13" class="aligncenter" />](https://secure.flickr.com/photos/heipei/4842861201/ "ALIX 2D13 by heipei, on Flickr")I desperately needed a new toy, and found the perfect match with the [ALIX 2D13](http://pcengines.ch/alix2d13.htm) board from Swiss manufacturer [PCEngines](http://pcengines.ch/index.htm). I&#8217;ve had [good experiences with the WRAP-board more than four years ago](https://heipei.net/2006/03/09/wireless-router-application-platform-wrap/), so I knew about the quality of their products. This post should serve as a quick introduction and point out some caveats if you want to setup and use an ALIX 2D13.
 
 **Specs**
   
-<img data-echo="https://heipei.net/weblog/alix2d13.jpg" alt="ALIX 2D13" class="alignright" />PCEngines has an [overview over the ALIX-line](http://www.pcengines.ch/alix.htm) as well as the [specs of the ALIX 2D13](http://www.pcengines.ch/alix2d13.htm), so this is just a short rundown: 
+<img src="https://heipei.net/weblog/alix2d13.jpg" alt="ALIX 2D13" class="alignright" />PCEngines has an [overview over the ALIX-line](http://www.pcengines.ch/alix.htm) as well as the [specs of the ALIX 2D13](http://www.pcengines.ch/alix2d13.htm), so this is just a short rundown: 
 
   * 500 MHz AMD Geode LX800 (x86)
   * 256 MB DDR DRAM

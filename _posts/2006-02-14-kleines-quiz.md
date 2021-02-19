@@ -13,7 +13,7 @@ categories:
   - Allgemein
   - Uni
 ---
-[<img data-echo="https://static.flickr.com/42/99693819_0e68f7c318.jpg" width="480" height="125" alt="I ... cant ... stop" />](https://secure.flickr.com/photos/heipei/99693819/ "Photo Sharing")
+[<img src="https://static.flickr.com/42/99693819_0e68f7c318.jpg" width="480" height="125" alt="I ... cant ... stop" />](https://secure.flickr.com/photos/heipei/99693819/ "Photo Sharing")
   
 &#8211; Sieht ihr Zimmer so aus? &#8211; [ ]
   

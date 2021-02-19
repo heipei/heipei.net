@@ -11,7 +11,7 @@ categories:
   - Gentoo
   - Linux
 ---
-[<img data-echo="/weblog/openssh.png" alt="OpenSSH" class="alignleft" style="border:0px" />](http://www.openssh.org/)You often hear the phrase &#8220;the swiss knife of &#8230;&#8221;. Well, for networking, OpenSSH clearly deserves that title in my opinion. Besides the obvious feature of providing secure logins with different options for mutual authentication, it can also be used to transfer files. It is also a core component of software like git, which depend on ssh to securely push changes instead of reinventing their own server and dealing with the whole authentication/authorization stuff once again.
+[<img src="/weblog/openssh.png" alt="OpenSSH" class="alignleft" style="border:0px" />](http://www.openssh.org/)You often hear the phrase &#8220;the swiss knife of &#8230;&#8221;. Well, for networking, OpenSSH clearly deserves that title in my opinion. Besides the obvious feature of providing secure logins with different options for mutual authentication, it can also be used to transfer files. It is also a core component of software like git, which depend on ssh to securely push changes instead of reinventing their own server and dealing with the whole authentication/authorization stuff once again.
   
 I&#8217;ve blogged about [using SSH to access hosts behind a firewall/router more conveniently](https://heipei.net/2008/08/28/ssh-through-proxyintermediate-host/), and I really suggest you sit down and read the manpage front-to-back, it will probably be rewarding for your current workflow.
 

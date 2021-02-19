@@ -12,7 +12,7 @@ categories:
   - CCC
   - Geekstuff
 ---
-<img data-echo="/weblog/weather-22c3.jpg" alt="Frosty" class="centered" />
+<img src="/weblog/weather-22c3.jpg" alt="Frosty" class="centered" />
   
 So, replaced the Strauss Greatest Waltzes and Polkas with something more &#8220;adequate&#8221;, i.e. the Hackers OST ;). I told myself that i have to get into the congress fever tonight, since the last few days have been quite relaxed and very christmas-y. I think some of that stuffed turkey is still spinning in my tummy. So here we go&#8230;
   

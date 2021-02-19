@@ -11,6 +11,6 @@ categories:
   - Geekstuff
   - Linux
 ---
-<img data-echo="/weblog/fonera.jpg" alt="La Fonera" class="alignleft" width="94" height="125" />Well, if that&#8217;s not coincidence. Yesterday i talked about DD WRT on my Linksys WRT. Today i tried out something i found yesterday. I activated SSH access on my La Fonera access point. Since the first method didnt work for me partout (and then was fixed) i was desperate to find another way. Well, have a look at the simple howto over at <http://bingobommel.blogspot.com/> for activating it on your fonera. The important thing: **DONT** connect your fonera to the internet, as it might download updates from fon and close the hole which this method uses.
+<img src="/weblog/fonera.jpg" alt="La Fonera" class="alignleft" width="94" height="125" />Well, if that&#8217;s not coincidence. Yesterday i talked about DD WRT on my Linksys WRT. Today i tried out something i found yesterday. I activated SSH access on my La Fonera access point. Since the first method didnt work for me partout (and then was fixed) i was desperate to find another way. Well, have a look at the simple howto over at <http://bingobommel.blogspot.com/> for activating it on your fonera. The important thing: **DONT** connect your fonera to the internet, as it might download updates from fon and close the hole which this method uses.
   
 I still have to figure out what exactly to do with the ssh access, but i can think of a few things&#8230; ;)

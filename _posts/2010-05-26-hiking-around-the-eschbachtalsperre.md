@@ -12,7 +12,7 @@ categories:
   - Unterwegs
   - Wandern
 ---
-[<img data-echo="https://farm4.static.flickr.com/3366/4639362871_f898d5c2ef.jpg" width="500" height="334" alt="Some post-processing" class="aligncenter" />](https://secure.flickr.com/photos/heipei/4639362871/ "Some post-processing by heipei, on Flickr")
+[<img src="https://farm4.static.flickr.com/3366/4639362871_f898d5c2ef.jpg" width="500" height="334" alt="Some post-processing" class="aligncenter" />](https://secure.flickr.com/photos/heipei/4639362871/ "Some post-processing by heipei, on Flickr")
 
 Believe it or not, this photo was taken about 2km from my parents home, from the dam of the Eschbachtalsperre, a dam for providing the region with drinking water. Usually I just jog around the lake in the morning, but last weekend Katrin and I discovered one of multiple hiking routes around it and the surrounding area. The trails all start at the parking lot and are clearly marked along the way.
 

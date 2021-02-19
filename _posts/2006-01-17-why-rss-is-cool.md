@@ -12,7 +12,7 @@ categories:
   - Allgemein
   - Geekstuff
 ---
-[<img data-echo="/weblog/rss-is-cool.png" alt="RSS is cool" class="alignleft" />](http://www.opencommunity.co.uk/vienna2.html)For those of you who are reading my weblog with a [RSS](http://en.wikipedia.org/wiki/RSS_%28file_format%29) Reader, skip this article. For those of you who dont, listen closely ;).
+[<img src="/weblog/rss-is-cool.png" alt="RSS is cool" class="alignleft" />](http://www.opencommunity.co.uk/vienna2.html)For those of you who are reading my weblog with a [RSS](http://en.wikipedia.org/wiki/RSS_%28file_format%29) Reader, skip this article. For those of you who dont, listen closely ;).
   
 So whats this RSS everyone&#8217;s talking about? Wikipedia says: &#8220;The technology of RSS allows Internet users to subscribe to websites that have provided RSS feeds; these are typically sites that change or add content regularly.&#8221; which once again says it all. RSS is a technology which makes it easier to go through the massive amount of information and news the average internet user is confronted today. The way it works is that a website publishes the RSS-Feed and every one can take the address of that feed and put it in his/her favorite RSS-Reader. Now, when you fire up your reader it goes through all your subscribed websites/boards/weblogs and automatically updates the articles. It then shows you how many new articles there are, how many you havent read. This way it saves you a lot of time since you dont have to browse to the webpages yourself and sort out all the new items there. You can then decide to read those articles in your reader or you can browse to the webpage itself.
   

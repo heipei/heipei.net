@@ -13,7 +13,7 @@ layout: default
     </header>
 
     <div class="post-content entrytext" itemprop="articleBody">
-      {{ page.content | replace_regex: 'img src=', 'img src="/images/ajax.gif" data-echo=' }}
+      {{ page.content | replace_regex: 'img src=', 'img loading="lazy" src=' }}
     </div>
 
   </article>

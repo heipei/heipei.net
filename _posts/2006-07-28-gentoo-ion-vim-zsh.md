@@ -16,4 +16,4 @@ categories:
 ---
 Weil ich sonst nix zu schreiben hab, hier ein kleiner Screenshot wie es bei mir aussieht (und wie ich ziemlich damit zufrieden bin).
 
-[<img data-echo="https://static.flickr.com/64/200392096_3b8afa0f07_m.jpg" width="240" height="192" alt="heipei-ion-20060728" />](https://secure.flickr.com/photos/heipei/200392096/ "Photo Sharing")
+[<img src="https://static.flickr.com/64/200392096_3b8afa0f07_m.jpg" width="240" height="192" alt="heipei-ion-20060728" />](https://secure.flickr.com/photos/heipei/200392096/ "Photo Sharing")

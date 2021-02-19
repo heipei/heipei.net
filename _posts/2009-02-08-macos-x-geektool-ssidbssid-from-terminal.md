@@ -12,7 +12,7 @@ categories:
 ---
 Working on my laptop a little bit more since I bought myself a new one I began the never-ending quest of doing things in MacOS via command-line that you&#8217;d have to do by GUI otherwise. But let me start by introducing [GeekTool, a funny little PrefPane](http://projects.tynsoe.org/en/geektool/) to display the output of commands on your desktop. Mine looks like this right now:
   
-[<img data-echo="https://farm4.static.flickr.com/3497/3260073285_9a51ddff9a.jpg" width="500" height="313" alt="GeekTool" class="aligncenter" />](https://secure.flickr.com/photos/heipei/3260073285/ "GeekTool by heipei, on Flickr")Most of the information there is redundant or meaningless. But two things I do care about: The SSID and BSSID (MAC-address) of the access-point I&#8217;m currently connected with. To get that info via the GUI you can Alt-Click the Airport-logo in the menubar, but you can also query it via commandline:
+[<img src="https://farm4.static.flickr.com/3497/3260073285_9a51ddff9a.jpg" width="500" height="313" alt="GeekTool" class="aligncenter" />](https://secure.flickr.com/photos/heipei/3260073285/ "GeekTool by heipei, on Flickr")Most of the information there is redundant or meaningless. But two things I do care about: The SSID and BSSID (MAC-address) of the access-point I&#8217;m currently connected with. To get that info via the GUI you can Alt-Click the Airport-logo in the menubar, but you can also query it via commandline:
   
 SSID: `/usr/sbin/system_profiler SPAirPortDataType|grep "Current Wireless Network"`BSSID: `/System/Library/PrivateFrameworks/Apple80211. framework/Versions/A/Resources/airport -I|grep BSSID`
   

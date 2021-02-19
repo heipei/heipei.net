@@ -12,6 +12,6 @@ categories:
 ---
 A polfilter (pol for polarizing) can give you all kinds of nifty improvements in your outdoor pictures. Here is a little preview. I expect to achieve much more drastic differences come summer:
   
-[<img data-echo="https://farm3.static.flickr.com/2783/4275843417_1efcdbcc86.jpg" width="500" height="375" alt="Kleine Polfilter-Demo" class="aligncenter" />](https://secure.flickr.com/photos/heipei/4275843417/ "Kleine Polfilter-Demo by heipei, on Flickr")
+[<img src="https://farm3.static.flickr.com/2783/4275843417_1efcdbcc86.jpg" width="500" height="375" alt="Kleine Polfilter-Demo" class="aligncenter" />](https://secure.flickr.com/photos/heipei/4275843417/ "Kleine Polfilter-Demo by heipei, on Flickr")
   
 Left: No filter (or at least filter turned towards &#8220;normal&#8221;). Right: Filter set to the right angle. Make sure you check out the full-sized version of the photo and pay attention not only to the sky but also to the trees and the windows of the building. Image was sharpened with Gimp btw.

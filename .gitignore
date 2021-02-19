@@ -4,3 +4,6 @@ _site
 .jekyll-metadata
 js/app.js
 *.swp
+vendor
+.bundle
+.jekyll-cache

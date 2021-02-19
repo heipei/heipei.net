@@ -11,7 +11,7 @@ categories:
   - Geekstuff
   - git
 ---
-[<img data-echo="https://farm4.static.flickr.com/3408/3664632307_067308aea4.jpg" width="500" height="222" alt="The beauty of snail-mail" class="aligncenter" />](https://secure.flickr.com/photos/heipei/3664632307/ "The beauty of snail-mail by heipei, on Flickr")
+[<img src="https://farm4.static.flickr.com/3408/3664632307_067308aea4.jpg" width="500" height="222" alt="The beauty of snail-mail" class="aligncenter" />](https://secure.flickr.com/photos/heipei/3664632307/ "The beauty of snail-mail by heipei, on Flickr")
   
 My [GitHub Octocat sticker](http://github.com/blog/369-get-your-github-stickers) arrived yesterday. I had almost forgotten about it, so it was an even nicer surprise to find a letter from Redwood City, CA in my mailbox today. I asked for the sticker on March 4 this year, quite some time ago ;)
   

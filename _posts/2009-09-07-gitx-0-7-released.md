@@ -11,7 +11,7 @@ categories:
   - Geekstuff
   - git
 ---
-<img data-echo="/weblog/gitx_logo.png" alt="GitX 0.7" class="alignleft" />[GitX 0.7](http://gitx.frim.nl/) was just released today. This is the latest release since 0.6.3 and the first real feature release for some time, although we don&#8217;t make that distinction to strictly. After the jump I&#8217;ll outline the cool new features and how to make use of them.
+<img src="/weblog/gitx_logo.png" alt="GitX 0.7" class="alignleft" />[GitX 0.7](http://gitx.frim.nl/) was just released today. This is the latest release since 0.6.3 and the first real feature release for some time, although we don&#8217;t make that distinction to strictly. After the jump I&#8217;ll outline the cool new features and how to make use of them.
 
 #### GitX mailing-list
 
@@ -19,7 +19,7 @@ We&#8217;ve been using [our Lighthouse tracker](http://gitx.lighthouseapp.com/pr
 
 #### GitX survey
 
-[<img data-echo="/weblog/survs.jpg" alt="GitX survey" class="alignright" style="margin-top: -15px; border:0px;" />](http://www.survs.com/survey?id=DCJKLP2B&channel=E965G53EBB)To accompany this release, and to improve the input from our users, we have created a small (< 5 min) survey for GitX. We&#8217;d be happy if you took the time to go through it. Link to the [GitX user survey](http://www.survs.com/survey?id=DCJKLP2B&channel=E965G53EBB)
+[<img src="/weblog/survs.jpg" alt="GitX survey" class="alignright" style="margin-top: -15px; border:0px;" />](http://www.survs.com/survey?id=DCJKLP2B&channel=E965G53EBB)To accompany this release, and to improve the input from our users, we have created a small (< 5 min) survey for GitX. We&#8217;d be happy if you took the time to go through it. Link to the [GitX user survey](http://www.survs.com/survey?id=DCJKLP2B&channel=E965G53EBB)
 
 The juicy details after the jump:
   
@@ -27,19 +27,19 @@ The juicy details after the jump:
 
 #### Operations on hunks/lines
 
-<img data-echo="/weblog/gitx_0.7_discard_hunk.png" alt="GitX" class="alignleft" />Staging and unstaging hunks has been possible for some time. What&#8217;s new is the &#8220;Discard Hunk&#8221; button which simply gets rid of that change, i.e. uses apply &#8211;reverse. As usual, the warning-box that shows up can be silenced by Alt-Clicking the button.
+<img src="/weblog/gitx_0.7_discard_hunk.png" alt="GitX" class="alignleft" />Staging and unstaging hunks has been possible for some time. What&#8217;s new is the &#8220;Discard Hunk&#8221; button which simply gets rid of that change, i.e. uses apply &#8211;reverse. As usual, the warning-box that shows up can be silenced by Alt-Clicking the button.
   
-<img data-echo="/weblog/gitx_0.7_stagelines.png" alt="GitX 0.7" class="aligncenter" />The most obvious change is the ability to stage specific lines from a hunk, using the left mouse-button to drag-select a few lines and then hit &#8220;Stage lines&#8221;. This is by far the most advanced method to stage stuff in a git-gui up until now.
+<img src="/weblog/gitx_0.7_stagelines.png" alt="GitX 0.7" class="aligncenter" />The most obvious change is the ability to stage specific lines from a hunk, using the left mouse-button to drag-select a few lines and then hit &#8220;Stage lines&#8221;. This is by far the most advanced method to stage stuff in a git-gui up until now.
 
 #### History
 
-Two small changes that should make life easier are the orange color for you current branch in the rev-list and the menu-title, which displays your current HEAD as well.<img data-echo="/weblog/gitx_0.7_head.png" alt="GitX" class="aligncenter" />
+Two small changes that should make life easier are the orange color for you current branch in the rev-list and the menu-title, which displays your current HEAD as well.<img src="/weblog/gitx_0.7_head.png" alt="GitX" class="aligncenter" />
   
 The panes which hold the list of commits and the individual diffs can now be collapsed/uncollapsed using double-click or the keystroke &#8220;Command-Shift-Up/Down&#8221;. This gives you the ability to quickly maximize complicated history or diffs.
 
 #### Committing
 
-<img data-echo="/weblog/gitx_0.7_commit_info.png" alt="GitX" class="alignleft" />The commit-view gained a &#8220;Sign-Off&#8221; button. Commits keep their author information when amending. And the (Un)staged-changes list gained a &#8220;Show in Finder&#8221; menu item. The diff now shows the committer, who can be someone other than the author of a patch. Commit-hooks now get executed upon committing.
+<img src="/weblog/gitx_0.7_commit_info.png" alt="GitX" class="alignleft" />The commit-view gained a &#8220;Sign-Off&#8221; button. Commits keep their author information when amending. And the (Un)staged-changes list gained a &#8220;Show in Finder&#8221; menu item. The diff now shows the committer, who can be someone other than the author of a patch. Commit-hooks now get executed upon committing.
 
 #### General
 
